@@ -85,14 +85,14 @@
 {
   "name": "NPY PY",
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NPY/EXPORTACION_WEB/SS/NPY_t-290x163.png",
-  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_2A/NOTICIAS_PY_C4.mpd",
+  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
   "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0"
 },
 {
   "name": "PARAVISION",
   "ico": "https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/PARAVISIN/EXPORTACION_WEB/SS/PARAVISIN_t-290x163.png",
-  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd",
+  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
   "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91"
 },
@@ -106,21 +106,21 @@
 {
   "name": "CANAL PRO",
   "ico": "http://static.tvar.io/imagenes/canalpro.png",
-  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
+  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
   "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7"
 },
 {
   "name": "5 DIAS PY",
   "ico": "http://static.tvar.io/imagenes/5diaspy.png",
-  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
+  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
   "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839"
 },
 {
   "name": "PY TV",
     "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PARAGUAYTV/EXPORTACION_WEB/SS/PARAGUAYTV_t-290x163.png",
-  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd",
+  "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
   "drm_scheme": "clearkey",
   "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68a5bd6c58e6c05bacfd18d3feec31f2&key=ae23f8357512df2dfabcb8104b078182"
 },
@@ -265,7 +265,7 @@
       },
       {
         "name": "EVENTOS py 2",
-        "uri": "https://ssh101.bozztv.com/ssh101/lared/playlist.m3u8",
+        "uri": "https://ssh101.bozztv.com/ssh101/pedrodj/playlist.m3u8",
         "ico": "https://logos.flamingtext.com/Word-Logos/eventos-design-beauty-name.png",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -300,17 +300,17 @@
 "lista": 
 [ { "name": "AMERICA TV", 
 "ico": "https://panelssh.com.ar/Img/americatv.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd", 
+"uri": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd", 
 "drm_scheme": "ClearKey", "drm_license_url": "https://panelssh.com.ar/Keys/americatv.json" 
 }, 
 { "name": "CANAL 9", 
 "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd", 
+"uri": "https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd", 
 "drm_scheme": "ClearKey", "drm_license_url": "https://panelssh.com.ar/Keys/canal9.json" 
 }, 
 { "name": "TELEFE", 
 "ico": "https://panelssh.com.ar/Img/telefe.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd", 
+"uri": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://panelssh.com.ar/Keys/telefe.json" 
 }, 
@@ -322,66 +322,66 @@
 }, 
 { "name": "EL TRECE", 
 "ico": "https://panelssh.com.ar/Img/eltrece.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd", 
+"uri": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://panelssh.com.ar/Keys/eltrece.json" 
 }, 
 { "name": "TN NOTICIAS", 
 "ico": "https://panelssh.com.ar/Img/tn.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd", 
+"uri": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd", 
 "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/tnnoticias.json" 
 }, 
 { "name": "A24", 
 "ico": "https://panelssh.com.ar/Img/a24_new.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd",
+"uri": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/a24.json"
  },
  { "name": "C5N",
  "ico": "https://panelssh.com.ar/Img/c5n_new.png",
- "uri": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd",
+ "uri": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/c5n.json"
  },
  { "name": "CANAL 26",
  "ico": "https://panelssh.com.ar/Img/canal26.png",
- "uri": "https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd",
+ "uri": "https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/canal26.json"
  },
  { "name": "CRONICA TV",
  "ico": "https://panelssh.com.ar/Img/cronicatv.png",
- "uri": "https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd",
+ "uri": "https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/cronicatv.json"
  },
  { "name": "LN+",
  "ico": "https://panelssh.com.ar/Img/ln.png",
- "uri": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
+ "uri": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/ln+.json"
  },
  { "name": "TV PUBLICA",
  "ico": "https://panelssh.com.ar/Img/TVP.png",
- "uri": "http://edge-live11-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd",
+ "uri": "http://edge-live11-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/tvpublica.json"
  }, { "name": "INFORMACION PERIODISTICA",
  "ico": "https://panelssh.com.ar/Img/informacionperiodistica.png",
- "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_2A/Investigacion_Periodistica.mpd",
+ "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/infoperio.json"
  },
  { "name": "ENCUENTRO",
  "ico": "https://panelssh.com.ar/Img/ENCUENTRO_NEW.png",
- "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+ "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/encuentro.json"
  },
  { "name": "CANAL RURAL",
  "ico": "https://panelssh.com.ar/Img/canalrural.png",
- "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_2A/Canal_Rural.mpd",
+ "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/canalrural.json"
  },

@@ -663,7 +663,7 @@
 "drm_license_url": "https://panelssh.com.ar/Keys/espn3.json" 
 }, 
 { "name": "ESPN EXTRA", 
-"ico": "https://panelssh.com.ar/Img/newespnextra1.png", 
+"ico": "https://panelssh.com.ar/Img/espn4.png", 
 "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://panelssh.com.ar/Keys/espnextra.json" 

@@ -312,14 +312,8 @@
 "ico": "https://panelssh.com.ar/Img/telefe.png", 
 "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://panelssh.com.ar/Keys/telefe.json" 
-}, 
-{ "name": "CLARO pent", 
-"ico": "https://panelssh.com.ar/Img/telefe.png", 
-"uri": "https://arlocallive2clarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(PENTHOUSE)/master.mpd", 
-"drm_scheme": "ClearKey", 
-"drm_license_url": "https://panelssh.com.ar/Keys/pent.json" 
-}, 
+"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323" 
+},
 { "name": "EL TRECE", 
 "ico": "https://panelssh.com.ar/Img/eltrece.png", 
 "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd", 
@@ -649,18 +643,7 @@
 "mode": false, 
 "lista": 
 [ 
-{ "name": "ESPN PREMIUM AR", 
-"ico": "https://panelssh.com.ar/Img/espnpremium.png", 
-"uri": "http://201.235.66.116/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd", 
-"drm_scheme": "ClearKey", 
-"drm_license_url": "https://panelssh.com.ar/Keys/espn_premium.json" 
-}, 
-{ "name": "TNT SPORTS AR", 
-"ico": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd", 
-"drm_scheme": "ClearKey", 
-"drm_license_url": "https://panelssh.com.ar/Keys/tnt_sports.json" 
-}, 
+
 { "name": "ESPN", 
 "ico": "https://panelssh.com.ar/Img/espn.png", 
 "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd", 
@@ -681,9 +664,21 @@
 }, 
 { "name": "ESPN EXTRA", 
 "ico": "https://panelssh.com.ar/Img/newespnextra1.png", 
-"uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd", 
+"uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://panelssh.com.ar/Keys/espnextra.json" 
+},
+{ "name": "ESPN PREMIUM AR", 
+"ico": "https://panelssh.com.ar/Img/espnpremium.png", 
+"uri": "http://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd", 
+"drm_scheme": "ClearKey", 
+"drm_license_url": "https://panelssh.com.ar/Keys/espn_premium.json" 
+}, 
+{ "name": "TNT SPORTS AR", 
+"ico": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png", 
+"uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd", 
+"drm_scheme": "ClearKey", 
+"drm_license_url": "https://panelssh.com.ar/Keys/tnt_sports.json" 
 }, 
 { "name": "FOX SPORTS", 
 "ico": "https://panelssh.com.ar/Img/pruebafox.png", 

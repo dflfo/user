@@ -250,12 +250,12 @@
     "mode": false, 
     "lista": [
       {
-        "name": "EVENTOS py",
-        "uri": "https://ssh101.bozztv.com/ssh101/pedrodj/playlist.m3u8",
-        "ico": "https://logos.flamingtext.com/Word-Logos/eventos-design-beauty-name.png",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  "name": "EVENTOS py",
+   "ico": "https://logos.flamingtext.com/Word-Logos/eventos-design-beauty-name.png",
+  "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/6356b4596cbd4627bc8620607ebd6106/index.mpd",
+    "drm_scheme": "clearkey",
+  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+},
       {
         "name": "EVENTOS py 2",
         "uri": "https://ssh101.bozztv.com/ssh101/pedrodj/playlist.m3u8",

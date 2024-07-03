@@ -655,7 +655,7 @@
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://panelssh.com.ar/Keys/espn3.json" 
 }, 
-{ "name": "ESPN EXTRA", 
+{ "name": "ESPN 4", 
 "ico": "https://panelssh.com.ar/Img/espn4.png", 
 "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd", 
 "drm_scheme": "ClearKey", 
@@ -957,9 +957,9 @@
     }, 
     { "name": "UNIVERSAL CINEMA", 
     "ico": "https://panelssh.com.ar/Img/universalcinema.png", 
-    "uri": "http://mtd.llc/chIdx/uncinema.mpd?xauthorization=Y8CzxDZTbgLt634O9IsFSw==", 
+    "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2aca01f156ca29808721bba6cbbf9572&key=c23c8c863f5dd1f93d39c5aad041ef65" 
+    "drm_license_url": "https://panelssh.com.ar/Keys/unicinema.json" 
     }, 
     { "name": "UNIVERSAL COMEDY", 
     "ico": "https://panelssh.com.ar/Img/universalcomedy.png", 

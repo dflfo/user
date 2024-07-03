@@ -963,27 +963,27 @@
     }, 
     { "name": "UNIVERSAL COMEDY", 
     "ico": "https://panelssh.com.ar/Img/universalcomedy.png", 
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_COMEDY_HD)/index.m3u8", 
-    "drm_scheme": "", 
-    "drm_license_url": "" 
+    "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd", 
+    "drm_scheme": "ClearKey", 
+    "drm_license_url": "https://panelssh.com.ar/Keys/unicomedy.json" 
     }, 
     { "name": "UNIVERSAL CRIME", 
     "ico": "https://panelssh.com.ar/Img/universalcrime.png", 
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CRIME_HD)/index.m3u8", 
-    "drm_scheme": "", 
-    "drm_license_url": "" 
+    "uri": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd", 
+    "drm_scheme": "ClearKey", 
+    "drm_license_url": "https://panelssh.com.ar/Keys/unicrime.json" 
     }, 
     { "name": "UNIVERSAL PREMIERE", 
     "ico": "https://panelssh.com.ar/Img/universalpremiere.png", 
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_PREMIERE_HD)/index.m3u8", 
-    "drm_scheme": "", 
-    "drm_license_url": "" 
+    "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd", 
+    "drm_scheme": "ClearKey", 
+    "drm_license_url": "https://panelssh.com.ar/Keys/unipremiere.json" 
     }, 
     { "name": "UNIVERSAL REALITY", 
     "ico": "https://panelssh.com.ar/Img/universalreality.png", 
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_REALITY_HD)/index.m3u8", 
-    "drm_scheme": "", 
-    "drm_license_url": "" 
+    "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd", 
+    "drm_scheme": "ClearKey", 
+    "drm_license_url": "https://panelssh.com.ar/Keys/unireality.json" 
     } 
     ] 
     }, 

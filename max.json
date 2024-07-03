@@ -16,42 +16,42 @@
   "ico": "https://panelssh.com.ar/Img/latele.png",
   "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
     "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
+  "drm_license_url": "https://panelssh.com.ar/Keys/latelepy.json"
 },
 {
   "name": "SNT",
    "ico": "https://panelssh.com.ar/Img/snt.png",
   "uri": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
     "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693"
+  "drm_license_url": "https://panelssh.com.ar/Keys/sntpy.json"
 },
 {
   "name": "C9N",
    "ico": "https://panelssh.com.ar/Img/c9n.png",
   "uri": "https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
     "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca"
+  "drm_license_url": "https://panelssh.com.ar/Keys/c9npy.json"
 },
 {
   "name": "GEN TV",
    "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GENHD/EXPORTACION_WEB/SS/GENHD_t-290x163.png",
   "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
     "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
+  "drm_license_url": "https://panelssh.com.ar/Keys/gentvpy.json"
 },
 {
   "name": "TRECE PY",
   "ico": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TRECEPY/EXPORTACION_WEB/SS/TRECEPY_t-290x163.png",
   "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
   "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
+  "drm_license_url": "https://panelssh.com.ar/Keys/rpcpy.json"
 },
 {
   "name": "UNICANAL",
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png",
   "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
     "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+  "drm_license_url": "https://panelssh.com.ar/Keys/unicanalpy.json"
 },
 {
   "name": "CENTRAL TV",
@@ -87,35 +87,35 @@
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NPY/EXPORTACION_WEB/SS/NPY_t-290x163.png",
   "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
   "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0"
+  "drm_license_url": "https://panelssh.com.ar/Keys/noticiaspy.json"
 },
 {
   "name": "PARAVISION",
   "ico": "https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/PARAVISIN/EXPORTACION_WEB/SS/PARAVISIN_t-290x163.png",
   "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
   "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91"
+  "drm_license_url": "https://panelssh.com.ar/Keys/paravisionpy.json"
 },
 {
   "name": "SUR TV HD",
   "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/SURTV/EXPORTACION_WEB/SS/SURTV_t-290x163.png",
   "uri": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
   "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577"
+  "drm_license_url": "https://panelssh.com.ar/Keys/surtvpy.json"
 },
 {
   "name": "CANAL PRO",
   "ico": "http://static.tvar.io/imagenes/canalpro.png",
   "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
   "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7"
+  "drm_license_url": "https://panelssh.com.ar/Keys/canalpropy.json"
 },
 {
   "name": "5 DIAS PY",
   "ico": "http://static.tvar.io/imagenes/5diaspy.png",
   "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
   "drm_scheme": "clearkey",
-  "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839"
+  "drm_license_url": "https://panelssh.com.ar/Keys/5diaspy.json"
 },
 {
   "name": "PY TV",
@@ -142,13 +142,6 @@
   "name": "HEI PY 2",
     "ico": "https://i.ibb.co/3zbGZ3r/hei1.jpg",
   "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HEI_HD)/index.m3u8",
-    "drm_scheme": "",
-  "drm_license_url": ""
-},
-{
-  "name": "TV CÁMARA",
-    "ico": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TVCMARA/EXPORTACION_WEB/SS/TVCMARA_t-290x163.png",
-  "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TV_CAMARA)/index.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""
 },

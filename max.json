@@ -842,67 +842,67 @@
   "ico": "https://panelssh.com.ar/Img/newdreamworks.png", 
   "uri": "https://edge-mix01-bua.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/dreamworksflow.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/op89l9hqoo54qx4wl8vlv/DREAM-WORKS-CHANNEL-HD.json?rlkey=vm3gu24f9rdhkt4of0zsrpfxh&st=k1b5pzvb&dl=0" 
   }, 
   { "name": "CARTOONITO", 
   "ico": "https://panelssh.com.ar/Img/newcartoonito.png", 
-  "uri": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/cartoonito.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/4x5r51xitp637o15cw1du/cartonito.json?rlkey=9xgu47o8x7swklolx01nyq9jz&st=4f2y19pw&dl=0" 
   }, 
   { "name": "CARTOON NETWORK", 
   "ico": "https://panelssh.com.ar/Img/cartoonnetwork.png", 
-  "uri": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/CartoonNetwork.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/wwpt9rj20zobpc30gunn5/cartoon.json?rlkey=7odiz7e7hkg474jm2cp8afc1e&st=cy2ofi3b&dl=0" 
   }, 
   { "name": "DISCOVERY KIDS", 
   "ico": "https://panelssh.com.ar/Img/discoverykids.png", 
-  "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/discoverykids.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/1su03uis1h2rd2vu3vrf2/dkids.json?rlkey=awbx4lxddayq4knpa1fhlpsyi&st=dawy9poz&dl=0" 
   }, 
   { "name": "DISNEY CHANNEL", 
   "ico": "https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png", 
-  "uri": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/disneychannel.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/1uy81htw52mlnkb5r0339/dchannel.json?rlkey=h63tamw7wlgwcwgpgfuop4p6c&st=2x8m0ct1&dl=0" 
   }, 
   { "name": "DISNEY JR", 
   "ico": "https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png", 
-  "uri": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/disneyjunior.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/dupxedsgyxcucye5escob/djunior.json?rlkey=kwa7qlbcmizf3wj0wjcf4xkl1&st=7dcom9vj&dl=0" 
   }, 
   { "name": "NICK", 
   "ico": "https://panelssh.com.ar/Img/nick.png", 
-  "uri": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/nick.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/ddzc33fjaaxtin7kfw9ey/nk.json?rlkey=www43sbf3kwoijvzqowkoonod&st=h8awcva1&dl=0" 
   }, 
   { "name": "NICK JR", 
   "ico": "https://panelssh.com.ar/Img/nickjunior.png", 
-  "uri": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/nickjunior.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/jjfy6vgoln92bh96c5fk5/nkjunior.json?rlkey=e047cabaas9c7v17tei3rhcny&st=t29v7bnl&dl=0" 
   }, 
   { "name": "BABY TV", 
   "ico": "https://panelssh.com.ar/Img/babytv.png", 
-  "uri": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_2A/BabyTV.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/babytv.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/l7dce14mdt8cm8jjhnfld/babytv.json?rlkey=j1nsjt8jebv0ob6g4iro4gev0&st=om2wrssu&dl=0" 
   }, 
   { "name": "TOONCAST", 
   "ico": "https://panelssh.com.ar/Img/tooncast.png", 
-  "uri": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/tooncast.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/wxfd8mz9f00xhlw6nlndo/tooncast.json?rlkey=xqeb9dtdbmbh8uo4x5shld2t4&st=449a796s&dl=0" 
   }, 
   { "name": "PAKA PAKA", 
   "ico": "https://panelssh.com.ar/Img/pakapaka.png",
-  "uri": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd", 
+  "uri": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd", 
   "drm_scheme": "ClearKey", 
-  "drm_license_url": "https://panelssh.com.ar/Keys/pakapaka.json" 
+  "drm_license_url": "https://dl.dropbox.com/scl/fi/pdiv9kg7bsrio2kt2t4du/pakapaka.json?rlkey=5sxqsw26mersmqh6ixzimjnpd&st=4vdpkntk&dl=0" 
   } 
   ] 
   }, 
@@ -914,79 +914,85 @@
     "ico": "https://panelssh.com.ar/Img/newhbo.png", 
     "uri": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/hbonew.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/5ve9278keieldhy5kkezw/hbo.json?rlkey=hvzrdvf90n89tr74ad79kcjvz&st=y1o4gp1y&dl=0" 
     }, 
     { "name": "HBO 2", 
     "ico": "https://panelssh.com.ar/Img/hbo2.png", 
     "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/hbo2.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/378xg9pn278f0s5gtz7sl/hbo2.json?rlkey=08kkca7a9nbwovsuy32ew04he&st=bxym9k43&dl=0" 
     }, 
     { "name": "HBO PLUS", 
     "ico": "https://panelssh.com.ar/Img/hboplus+.png", 
     "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/hboplus.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/h6vrphqzet28vp5k649mm/hboplus.json?rlkey=28605r0ezj4mlpc2rqh7yn21j&st=bkqr8u08&dl=0" 
     }, 
     { "name": "HBO MUNDI", 
     "ico": "https://panelssh.com.ar/Img/hbomundi2.png", 
-    "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd", 
+    "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/hbomundi.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/vzcc13e3wxfaivpco0wh9/hbomundi.json?rlkey=oc6em50y2xv4it69cez3lc832&st=ptz095bk&dl=0" 
     }, 
     { "name": "HBO POP", 
     "ico": "https://panelssh.com.ar/Img/hbopop.png", 
-    "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd", 
+    "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/hbopop.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/9tfie57ok6h1hjso5r8rk/hbopop.json?rlkey=5kmoizchqvbm0kcnufm03919h&st=jac63z4u&dl=0" 
     }, 
     { "name": "HBO XTREME", 
     "ico": "https://panelssh.com.ar/Img/hboxtreme.png", 
-    "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd", 
+    "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/hboxtreme.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/dldppjlfvadjppcz5u3kg/hboxtreme.json?rlkey=gnknyqdket4twiet9zviz46ia&st=babwohji&dl=0" 
     }, 
     { "name": "HBO FAMILY", 
     "ico": "https://panelssh.com.ar/Img/hbofamily.png", 
     "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/hbofamilyespanol.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/apu02yoswyrbk7myn7o8x/hbofamily.json?rlkey=4y7yx78av9sx1zegugjeytxml&st=dfoy2d8o&dl=0" 
     }, 
     { "name": "HBO SIGNATURE", 
     "ico": "https://panelssh.com.ar/Img/hbosignature.png", 
     "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/hbosignatureespanol.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/jixynfkuka56doxwhvyax/hbosignature.json?rlkey=undawj0090e9qizrjau01vsjq&st=tezs3w5g&dl=0" 
     }, 
     { "name": "UNIVERSAL CINEMA", 
     "ico": "https://panelssh.com.ar/Img/universalcinema.png", 
     "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/unicinema.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/29s69kycsopzf69bphhpu/ucinema.json?rlkey=mqlyn19lm5gzxaip7so5kgf2b&st=0tefy4md&dl=0" 
     }, 
     { "name": "UNIVERSAL COMEDY", 
     "ico": "https://panelssh.com.ar/Img/universalcomedy.png", 
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/unicomedy.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/3e0t3i4buet4vswqwadju/ucomedy.json?rlkey=7tml3s4ycgkfje4oh8umcocej&st=ked3bh2w&dl=0" 
     }, 
     { "name": "UNIVERSAL CRIME", 
     "ico": "https://panelssh.com.ar/Img/universalcrime.png", 
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/unicrime.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/idm4b9eq5fujhe37psp8x/ucrime.json?rlkey=bq4uf7613zywqhw00j3xvtn3n&st=b8rz5zln&dl=0" 
     }, 
     { "name": "UNIVERSAL PREMIERE", 
     "ico": "https://panelssh.com.ar/Img/universalpremiere.png", 
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/unipremiere.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/62l73644tl0sjuo8e38od/upremiere.json?rlkey=7evn4ca4p71n6b5g9jw7bala5&st=c25b8ik4&dl=0" 
+    }, 
+    { "name": "UNIVERSAL CHANNEL", 
+      "ico": "https://panelssh.com.ar/Img/universalchannel.png", 
+      "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd", 
+      "drm_scheme": "ClearKey", 
+      "drm_license_url": "https://panelssh.com.ar/Keys/universalchannel.json" 
     }, 
     { "name": "UNIVERSAL REALITY", 
     "ico": "https://panelssh.com.ar/Img/universalreality.png", 
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd", 
     "drm_scheme": "ClearKey", 
-    "drm_license_url": "https://panelssh.com.ar/Keys/unireality.json" 
+    "drm_license_url": "https://dl.dropbox.com/scl/fi/14owiuiapxezhhfmr8rge/ureality.json?rlkey=yxkiqrbeoq6z83jlhkzxcha0q&st=tzndq6h2&dl=0" 
     } 
     ] 
     }, 
@@ -996,46 +1002,34 @@
     [ 	 
       { "name": "CINECANAL", 
       "ico": "https://panelssh.com.ar/Img/cinecanal.png", 
-      "uri": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd", 
+      "uri": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/cinecanal.json" 
-      }, 	 
-      { "name": "ISAT", 
-      "ico": "https://panelssh.com.ar/Img/isat.png", 
-      "uri": "https://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd", 
-      "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/isat.json" 
       }, 
       { "name": "SPACE", 
       "ico": "https://imagenes.gatotv.com/logos/canales/claros/space.png", 
-      "uri": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd", 
+      "uri": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/space.json" 
       }, 
       { "name": "TNT", 
       "ico": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png", 
-      "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd", 
+      "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/tnt.json" 
       }, 
       { "name": "TNT SERIES", 
       "ico": "https://panelssh.com.ar/Img/tntseries.png", 
-      "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd", 
+      "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/tntseries.json" 
       }, 	 
       { "name": "WARNER CHANNEL", 
       "ico": "https://panelssh.com.ar/Img/warnerchannel.png", 
-      "uri": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd", 
+      "uri": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/warnerchannel.json" 
-      }, 
-      { "name": "UNIVERSAL CHANNEL", 
-      "ico": "https://panelssh.com.ar/Img/universalchannel.png", 
-      "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd", 
-      "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/universalchannel.json" 
-      }, 
+      },
       { "name": "AXN", 
       "ico": "https://panelssh.com.ar/Img/axn.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd", 
@@ -1146,7 +1140,7 @@
       }, 
       { "name": "FILM & ARTS", 
       "ico": "https://panelssh.com.ar/Img/filmyarts.png", 
-      "uri": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd", 
+      "uri": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/filmyarts.json" 
       } 
@@ -1158,99 +1152,99 @@
       [ 
         { "name": "LOVE NATURE", 
         "ico": "https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png", 
-        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363", 
+        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus", 
         "drm_scheme": "ClearKey", 
         "drm_license_url": "" 
         },
         { "name": "HISTORY", 
         "ico": "https://panelssh.com.ar/Img/history.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/history.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/8y7zohh0l5q5l8rl085tj/dschistory.json?rlkey=deln358pnv11l4bnzls8xpp0v&st=lioery8d&dl=0" 
         }, 
         { "name": "HISTORY 2", 
         "ico": "https://panelssh.com.ar/Img/history2.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/history2.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/8bnkqojgkyjken3wptzem/dschistory2.json?rlkey=jsp6v8nahufshi78fkft89whu&st=yifuivqr&dl=0" 
         }, 
         { "name": "DISCOVERY", 
         "ico": "https://panelssh.com.ar/Img/discovery.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/discovery.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/8t2hqke217bdno50ue4io/dscchannel.json?rlkey=ngm7vd56lmf16u2dbicqbhz1p&st=41rfdc1t&dl=0" 
         }, 
         { "name": "DISCOVERY HOME HEALTH", 
         "ico": "https://panelssh.com.ar/Img/discoveryhh.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/discoveryhomehealth.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/9gs6gs1dovf5uscx88dp0/dschyh.json?rlkey=t4q4mom263pcvdeiu9kmjopx5&st=4efm45jk&dl=0" 
         }, 
         { "name": "DISCOVERY ID", 
         "ico": "https://panelssh.com.ar/Img/discoveryid.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/discoveryid.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/jbsxml3wqnh7hox3jfwk1/dscid.json?rlkey=aoizk8382fxir2a3an0yijaxw&st=xw4mz80h&dl=0" 
         }, 
         { "name": "DISCOVERY SCIENCE",
         "ico": "https://panelssh.com.ar/Img/discoveryscience.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/discoveryscience.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/2epm3aghfyvel42liwq5a/dscscience.json?rlkey=t3ohzegkwbgj2wo7gbgfryyhf&st=49iu0oxl&dl=0" 
         }, 
         { "name": "DISCOVERY TURBO", 
         "ico": "https://panelssh.com.ar/Img/discoveryturbo.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/discoveryturbo.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/swbgympioc4ubtl5ad4wk/dscturbo.json?rlkey=gvuylcf6undw1glapywm45r6r&st=8a72pu96&dl=0" 
         }, 
         { "name": "DISCOVERY THEATER", 
         "ico": "https://panelssh.com.ar/Img/DISCOVERY_THEATER.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/discoverytheater.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/ir22durwp6ce6lkbs7b0q/dsctheater.json?rlkey=lmn06dc0kbwwa7kn85bpdaafd&st=lex6l0ne&dl=0" 
         }, 
         { "name": "DISCOVERY TLC", 
         "ico": "https://panelssh.com.ar/Img/DISCOVERY_TLC.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/discoverytlc.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/041d1yw6cwsjojb9b34nb/dsctlc.json?rlkey=9qrlg2n1408vnerx5ydm688ow&st=b56n45pt&dl=0" 
         }, 
         { "name": "DISCOVERY WORLD", 
         "ico": "https://panelssh.com.ar/Img/DISCOVERY_WORLD.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/discoveryworld.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/es3vep10chrk86f8z7naz/dscworld.json?rlkey=2ue6h1753ni6bh23czl6b47k3&st=kzls8dg3&dl=0" 
         }, 
         { "name": "NATGEO", 
         "ico": "https://panelssh.com.ar/Img/newnatgeo.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/natgeo.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/1vw551hzb39eroib4jb5b/dscnatgeo.json?rlkey=4ocx4k2qa5yakuteh2ekjwpdy&st=1ivcm1u0&dl=0" 
         }, 
         { "name": "ANIMAL PLANET", 
         "ico": "https://panelssh.com.ar/Img/ANIMAL_PLANET.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/animalplanet.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/y8noukq1pvl9od96fheq7/animalplanet.json?rlkey=a3rm1odn4w7wqgj00ga36ptjp&st=pvfqe38o&dl=0" 
         }, 
         { "name": "HGTV", 
         "ico": "https://panelssh.com.ar/Img/HGTV.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_2A/Home_and_Garden.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/hgtv2.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/sk5l5wzilnmmk65i3s6pz/dschgtv.json?rlkey=p4ybut2vo5q3rl93yiynsxr7r&st=gavksqem&dl=0" 
         }, 
         { "name": "SUN CHANNEL", 
         "ico": "https://panelssh.com.ar/Img/SUN_CHANNEL.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/sunchannel.json" 
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=158177692aa3463eae5f4e1f72403e9c&key=1c6c026fba9cf7ecb576c7bedce0ead4" 
         }, 
         { "name": "GOURMET", 
         "ico": "https://panelssh.com.ar/Img/GOURMET.png", 
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd", 
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd", 
         "drm_scheme": "ClearKey", 
-        "drm_license_url": "https://panelssh.com.ar/Keys/gourmet.json" 
+        "drm_license_url": "https://dl.dropbox.com/scl/fi/92ksfkp495jdnw11at73h/elgourmet.json?rlkey=o1u5tydxpjvxss6gdk2bb9ym9&st=ivwet0e0&dl=0" 
         } 
         ] 
         }, 
@@ -1266,28 +1260,21 @@
           }, 	 
           { "name": "CANAL DE LAS ESTRELLAS", 
           "ico": "https://panelssh.com.ar/Img/canaldelasestrellas.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/canaldelasestrellas.json" 
+          "drm_license_url": "https://dl.dropbox.com/scl/fi/ineovjz6o9x23q8kxax43/delasestrellas.json?rlkey=ctet6jd3ksohpwsesag9eoaeh&st=jbjxh45k&dl=0" 
           }, 	 
           { "name": "PASIONES", 
           "ico": "https://panelssh.com.ar/Img/pasiones.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/pasiones.json" 
-          }, 
-          { "name": "TL NOVELAS", 
-          "ico": "https://panelssh.com.ar/Img/tlnovelas.png", 
-          "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd", 
-          "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e78391deb5706f9311d952d6be6a6139&key=6f18f24433288d9462597aed58138336" 
+          "drm_license_url": "https://dl.dropbox.com/scl/fi/bdbl7r0y9z97yaaxxq00t/pasiones.json?rlkey=attrwz8ny7d7amtoi0o5daykz&st=mtf32bh3&dl=0" 
           }, 	
           { "name": "TNT NOVELAS", 
           "ico": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": 
-          "https://panelssh.com.ar/Keys/tbs.json" 
+          "drm_license_url": "https://dl.dropbox.com/scl/fi/utmcwuwsfvnkdktj0i8u2/tntnovelas.json?rlkey=tbgbs8qti1uz0kxasx1k647lz&st=vl43vrm7&dl=0" 
           }, 	 
           { "name": "SONY NOVELAS", 
           "ico": "https://panelssh.com.ar/Img/sonynovelas2.png", 
@@ -1300,12 +1287,6 @@
           "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd", 
           "drm_scheme": "clearkey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/canala.json" 
-          }, 
-          { "name": "CORAZON TV", 
-          "ico": "https://panelssh.com.ar/Img/corazontv.png", 
-          "uri": "https://dtvott-cbc.akamaized.net/dash_live_1022/manifest.mpd", 
-          "drm_scheme": "clearkey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/corazontv.json" 
           }, 
           { "name": "BRAVO TV", 
           "ico": "https://panelssh.com.ar/Img/newbravotv.png", 
@@ -1321,75 +1302,69 @@
           }, 
           { "name": "CANAL LUZ", 
           "ico": "https://panelssh.com.ar/Img/canalluz.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc_2A/CANAL_LUZ.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/canalluz.json" 
           }, 
           { "name": "CIUDAD MAGAZINE", 
           "ico": "https://panelssh.com.ar/Img/ciudadmagazine.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/ciudadmagazine.json" 
           }, 
           { "name": "E!", 
           "ico": "https://panelssh.com.ar/Img/canale.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_2A/E_Entertainment_Television.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/e.json" 
+          "drm_license_url": "https://dl.dropbox.com/scl/fi/nn84b2chi7of5mlon2uib/entertainer.json?rlkey=gr6vkdukh9o5gmnz6u86i73jg&st=2mjw3a0i&dl=0" 
           }, 
           { "name": "EURO CHANNEL", 
           "ico": "https://panelssh.com.ar/Img/eurochannel.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/Eurochannel.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc/Eurochannel.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/eurochannel.json" 
           }, 
           { "name": "EWTN", 
           "ico": "https://panelssh.com.ar/Img/ewtn.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_2A/EWTN.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/ewtn.json" 
           }, 
           { "name": "FOOD NETWORK", 
           "ico": "https://panelssh.com.ar/Img/foodnetwork.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_2A/Food_Network.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/foodnetwork.json" 
+          "drm_license_url": "https://dl.dropbox.com/scl/fi/6g0jmgk41te21x2z7dtvm/footnetwork.json?rlkey=64ts59yunkka5vizfekvd5yuj&st=puba8tyl&dl=0" 
           }, 
           { "name": "GLITZ", 
           "ico": "https://panelssh.com.ar/Img/glitz.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc_2A/Glitz.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc/Glitz.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/glitz.json" 
           }, 
           { "name": "HOLA TV", 
           "ico": "https://panelssh.com.ar/Img/holatv.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_2A/Hola_TV.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/holatv.json" 
-          }, 
-          { "name": "TRU TV", 
-          "ico": "https://panelssh.com.ar/Img/trutv.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd", 
-          "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/trutv.json" 
-          }, 
+          "drm_license_url": "https://dl.dropbox.com/scl/fi/er96n3rvx38bdvdbo9i4s/holatv.json?rlkey=hfs92d2xfvbh2zm5uktv3rurx&st=a6g85jlg&dl=0" 
+          },  
           { "name": "KZO ENTERTAINMENT", 
           "ico": "https://panelssh.com.ar/Img/kzo.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_2A/KZO.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/kzo.json" 
           }, 
           { "name": "LIFETIME", 
           "ico": "https://panelssh.com.ar/Img/lifetime.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_2A/Lifetime.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/lifetime.json" 
+          "drm_license_url": "https://dl.dropbox.com/scl/fi/113w4bv1qgn9ulf8vcjer/lifetime.json?rlkey=gyfodit7027r9n43jzi7vtjl2&st=ut94r9g3&dl=0" 
           }, 
           { "name": "MAS CHIC", 
           "ico": "https://panelssh.com.ar/Img/maschic.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc_2A/Mas_Chic.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/maschic.json" 
+          "drm_license_url": "https://dl.dropbox.com/scl/fi/a5vcre40pt9t1ihye1xur/maschi.json?rlkey=evafrbbnunqb5ag6bxdzcfq3t&st=y0l36hyg&dl=0" 
           }, 
           { "name": "METRO", 
           "ico": "https://panelssh.com.ar/Img/metro.png", 

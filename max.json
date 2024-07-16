@@ -1352,7 +1352,7 @@
           "ico": "https://panelssh.com.ar/Img/kzo.png", 
           "uri": "https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd", 
           "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/kzo.json" 
+          "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=695d07988114f7fec31f8f27a6d67c32&key=8e4fbb96cff6a31c88f81565b199a13a" 
           }, 
           { "name": "LIFETIME", 
           "ico": "https://panelssh.com.ar/Img/lifetime.png", 

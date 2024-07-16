@@ -6,28 +6,28 @@
     
     {
   "name": "TELEFUTURO",
-   "ico": "https://panelssh.com.ar/Img/telefuturo.png",
+   "ico": "https://i.ibb.co/NjymhsW/FFFF.jpg",
   "uri": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
     "drm_scheme": "clearkey",
   "drm_license_url": "https://dl.dropbox.com/scl/fi/xdmpe6xxcrcjq8k9h5dvl/telefuturo.json?rlkey=dykbivzs99u16qgi1dx9d7ngj&st=u24dmfgf&dl=0"
 },
 {
   "name": "LA TELE",
-  "ico": "https://panelssh.com.ar/Img/latele.png",
+  "ico": "https://i.ibb.co/Zg861M4/latele.png",
   "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
     "drm_scheme": "clearkey",
   "drm_license_url": "https://dl.dropbox.com/scl/fi/q118jxq0g390dywmibhy7/latele.json?rlkey=i6t9puhq8eu7klzp8ahtmxbw2&st=w16dkt2r&dl=0"
 },
 {
   "name": "SNT",
-   "ico": "https://panelssh.com.ar/Img/snt.png",
+   "ico": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
   "uri": "https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
     "drm_scheme": "clearkey",
   "drm_license_url": "https://dl.dropbox.com/scl/fi/7fei1s9k77s34989rw8cl/snt.json?rlkey=2u0haw0ve8u0ib6ab1kk9rwkc&st=6gy8f1lq&dl=0"
 },
 {
   "name": "C9N",
-   "ico": "https://panelssh.com.ar/Img/c9n.png",
+   "ico": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg",
   "uri": "https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
     "drm_scheme": "clearkey",
   "drm_license_url": "https://dl.dropbox.com/scl/fi/aqyzmfhnl8ioxx5s1kbky/c9n.json?rlkey=la8ytglc74h7kp16e3x89r0bj&st=mcrjxeq0&dl=0"

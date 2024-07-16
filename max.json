@@ -851,37 +851,37 @@
   "drm_license_url": "https://dl.dropbox.com/scl/fi/4x5r51xitp637o15cw1du/cartonito.json?rlkey=9xgu47o8x7swklolx01nyq9jz&st=4f2y19pw&dl=0" 
   }, 
   { "name": "CARTOON NETWORK", 
-  "ico": "https://panelssh.com.ar/Img/cartoonnetwork.png", 
+  "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CARTOONNETWORKHD/EXPORTACION_WEB/SS/CARTOONNETWORKHD_t-290x163.png", 
   "uri": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd", 
   "drm_scheme": "ClearKey", 
   "drm_license_url": "https://dl.dropbox.com/scl/fi/wwpt9rj20zobpc30gunn5/cartoon.json?rlkey=7odiz7e7hkg474jm2cp8afc1e&st=cy2ofi3b&dl=0" 
   }, 
   { "name": "DISCOVERY KIDS", 
-  "ico": "https://panelssh.com.ar/Img/discoverykids.png", 
+  "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png", 
   "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd", 
   "drm_scheme": "ClearKey", 
   "drm_license_url": "https://dl.dropbox.com/scl/fi/1su03uis1h2rd2vu3vrf2/dkids.json?rlkey=awbx4lxddayq4knpa1fhlpsyi&st=dawy9poz&dl=0" 
   }, 
   { "name": "DISNEY CHANNEL", 
-  "ico": "https://imagenes.gatotv.com/logos/canales/claros/disney_channel.png", 
+  "ico": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/DISNEYCHANNEL/EXPORTACION_WEB/SS/DISNEYCHANNEL_t-290x163.png", 
   "uri": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd", 
   "drm_scheme": "ClearKey", 
   "drm_license_url": "https://dl.dropbox.com/scl/fi/1uy81htw52mlnkb5r0339/dchannel.json?rlkey=h63tamw7wlgwcwgpgfuop4p6c&st=2x8m0ct1&dl=0" 
   }, 
   { "name": "DISNEY JR", 
-  "ico": "https://imagenes.gatotv.com/logos/canales/claros/disney_junior.png", 
+  "ico": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/DISNEYJUNIOR/EXPORTACION_WEB/SS/DISNEYJUNIOR_t-290x163.png", 
   "uri": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd", 
   "drm_scheme": "ClearKey", 
   "drm_license_url": "https://dl.dropbox.com/scl/fi/dupxedsgyxcucye5escob/djunior.json?rlkey=kwa7qlbcmizf3wj0wjcf4xkl1&st=7dcom9vj&dl=0" 
   }, 
   { "name": "NICK", 
-  "ico": "https://panelssh.com.ar/Img/nick.png", 
+  "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NICKHD/EXPORTACION_WEB/SS/NICKHD_t-290x163.png", 
   "uri": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd", 
   "drm_scheme": "ClearKey", 
   "drm_license_url": "https://dl.dropbox.com/scl/fi/ddzc33fjaaxtin7kfw9ey/nk.json?rlkey=www43sbf3kwoijvzqowkoonod&st=h8awcva1&dl=0" 
   }, 
   { "name": "NICK JR", 
-  "ico": "https://panelssh.com.ar/Img/nickjunior.png", 
+  "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NICKJRHD/EXPORTACION_WEB/SS/NICKJRHD_t-290x163.png", 
   "uri": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd", 
   "drm_scheme": "ClearKey", 
   "drm_license_url": "https://dl.dropbox.com/scl/fi/jjfy6vgoln92bh96c5fk5/nkjunior.json?rlkey=e047cabaas9c7v17tei3rhcny&st=t29v7bnl&dl=0" 
@@ -893,7 +893,7 @@
   "drm_license_url": "https://dl.dropbox.com/scl/fi/l7dce14mdt8cm8jjhnfld/babytv.json?rlkey=j1nsjt8jebv0ob6g4iro4gev0&st=om2wrssu&dl=0" 
   }, 
   { "name": "TOONCAST", 
-  "ico": "https://panelssh.com.ar/Img/tooncast.png", 
+  "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/TOONCAST/EXPORTACION_WEB/SS/TOONCAST_t-290x163.png", 
   "uri": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd", 
   "drm_scheme": "ClearKey", 
   "drm_license_url": "https://dl.dropbox.com/scl/fi/wxfd8mz9f00xhlw6nlndo/tooncast.json?rlkey=xqeb9dtdbmbh8uo4x5shld2t4&st=449a796s&dl=0" 

@@ -986,7 +986,7 @@
       "ico": "https://panelssh.com.ar/Img/universalchannel.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/universalchannel.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/5jqs3t7iv4kz9dmmvfq9o/universalchanel.json?rlkey=ad3zm32d9g54b9ynn8i6wohfc&st=qzzj5loo&dl=0" 
     }, 
     { "name": "UNIVERSAL REALITY", 
     "ico": "https://panelssh.com.ar/Img/universalreality.png", 
@@ -1001,40 +1001,40 @@
     "lista": 
     [ 	 
       { "name": "CINECANAL", 
-      "ico": "https://panelssh.com.ar/Img/cinecanal.png", 
+      "ico": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/cinecanal.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/ktxec20jjojq8r206ev1g/cinecanal.json?rlkey=9qzc1cgc8qujk8cj5n3wmx2by&st=wtkdvsgi&dl=0" 
       }, 
       { "name": "SPACE", 
       "ico": "https://imagenes.gatotv.com/logos/canales/claros/space.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/space.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/8r41mi46c0w6ne70q35gy/space.json?rlkey=9ba2mgtmmp7gphsuf5fb7h0sc&st=lex1694h&dl=0" 
       }, 
       { "name": "TNT", 
       "ico": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/tnt.json" 
+      "drm_license_url": "https://www.dropbox.com/scl/fi/nhwlx5cybrirf8risbcej/tnt.json?rlkey=jdki6wdd2hh8to44q58ro3omf&st=og30rdwk&dl=0" 
       }, 
       { "name": "TNT SERIES", 
-      "ico": "https://panelssh.com.ar/Img/tntseries.png", 
+      "ico": "https://i.ibb.co/0Fb9ncz/descarga-7.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/tntseries.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/5c3hvh2uz43233uppan46/tntseries.json?rlkey=o952msfv60o0zyi2yfpwlntnf&st=x41teft4&dl=0" 
       }, 	 
       { "name": "WARNER CHANNEL", 
-      "ico": "https://panelssh.com.ar/Img/warnerchannel.png", 
+      "ico": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/warnerchannel.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/50bmrsbkflruowqqcx1zs/warner.json?rlkey=87mq4m79blrh9bc4aym81cqyr&st=3s1bxx4u&dl=0" 
       },
       { "name": "AXN", 
-      "ico": "https://panelssh.com.ar/Img/axn.png", 
+      "ico": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/axn.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/xi8qpvdq25eceb7tvx5t4/axn.json?rlkey=td4x232vfeajonergb4u7r4k4&st=t1s19lmd&dl=0" 
       }, 
       { "name": "SONY MOVIES", 
       "ico": "https://panelssh.com.ar/Img/sonymovies.png", 
@@ -1103,10 +1103,10 @@
       "drm_license_url": "https://panelssh.com.ar/Keys/studiouniversal.json" 
       }, 
       { "name": "A&E", 
-      "ico": "https://panelssh.com.ar/Img/a&e.png", 
+      "ico": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/AyE.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/47az9cgdydbtq6ns18vy4/aye.json?rlkey=ref3l6z3qeuqdjr0zmnh24lpf&st=gd6jxy3m&dl=0" 
       }, 
       { "name": "AMC", 
       "ico": "https://panelssh.com.ar/Img/newamc.png", 

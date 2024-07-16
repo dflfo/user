@@ -1037,22 +1037,22 @@
       "drm_license_url": "https://dl.dropbox.com/scl/fi/xi8qpvdq25eceb7tvx5t4/axn.json?rlkey=td4x232vfeajonergb4u7r4k4&st=t1s19lmd&dl=0" 
       }, 
       { "name": "SONY MOVIES", 
-      "ico": "https://panelssh.com.ar/Img/sonymovies.png", 
+      "ico": "https://i.ibb.co/t4nrcdk/Sony-Movies-Logo-svg.png", 
       "uri": "https://edge-mix01-bua.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd", 
       "drm_scheme": "clearkey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/sonymovies.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/mzorjhb020jdvoqiu8a7z/sonymovies.json?rlkey=l75dwu88rrgt4ososdn633rb4&st=zq4cpkz7&dl=0" 
       }, 
       { "name": "CINE AR", 
       "ico": "https://panelssh.com.ar/Img/cinear.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/cinear.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0" 
       }, 
       { "name": "CINEMAX", 
-      "ico": "https://panelssh.com.ar/Img/cinemax.png", 
+      "ico": "https://i.ibb.co/MZYTrkg/descarga-9.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/cinemax.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/udw1e6ymk75w1jbuvsmn1/cinemax.json?rlkey=6m4buh7ss6anuofyj5ozu75xi&st=hztmmbhb&dl=0" 
       }, 
       { "name": "VOLVER", 
       "ico": "https://panelssh.com.ar/Img/volver_new.png", 
@@ -1112,31 +1112,31 @@
       "ico": "https://panelssh.com.ar/Img/newamc.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/amc.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/pss1sbi7vqp6qlr7zbzbo/amc.json?rlkey=v783xv5izqh2mwhq4oefcmihr&st=vwvwm2in&dl=0" 
       }, 
       { "name": "A3 SERIES", 
       "ico": "https://panelssh.com.ar/Img/a3series.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/a3series.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/idxl8gbm8ksnt9rvdsmwu/a3series.json?rlkey=elos2kgnkcph99c3m1mybp2rc&st=9omgyg59&dl=0" 
       }, 
       { "name": "COMEDY CENTRAL", 
       "ico": "https://panelssh.com.ar/Img/comedycentral.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/comedycentral.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/4530yp2ynkda59evokez1/comedycentral.json?rlkey=zpvg09aivt08mq16c36z867vv&st=nul2dpd1&dl=0" 
       }, 
       { "name": "PARAMOUNT", 
-      "ico": "https://panelssh.com.ar/Img/paramount.png", 
+      "ico": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/paramount.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/hhgj91ja4mtqy0lbzzsct/paramount.json?rlkey=70f0jazk0cqv6g8qxtnyck8mx&st=f89xhbdq&dl=0" 
       }, 
       { "name": "A3 CINE", 
-      "ico": "https://panelssh.com.ar/Img/a3cine.png",
+      "ico": "https://i.ibb.co/RgWH92w/720x540-1.jpg",
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_2A/A3_Cine.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/a3cine.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/ohy3pvnijffxplbobw3mf/a3cine.json?rlkey=q00ya4aj23j4foz1q3i189agv&st=8v2japk7&dl=0" 
       }, 
       { "name": "FILM & ARTS", 
       "ico": "https://panelssh.com.ar/Img/filmyarts.png", 

@@ -984,7 +984,7 @@
     }, 
     { "name": "UNIVERSAL CHANNEL", 
       "ico": "https://panelssh.com.ar/Img/universalchannel.png", 
-      "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd", 
+      "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/5jqs3t7iv4kz9dmmvfq9o/universalchanel.json?rlkey=ad3zm32d9g54b9ynn8i6wohfc&st=qzzj5loo&dl=0" 
     }, 
@@ -1085,10 +1085,10 @@
       "drm_license_url": "https://panelssh.com.ar/Keys/sonychannel.json" 
       }, 
       { "name": "TCM", 
-      "ico": "https://panelssh.com.ar/Img/tcm.png", 
+      "ico": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd", 
       "drm_scheme": "ClearKey", 
-      "drm_license_url": "https://panelssh.com.ar/Keys/tcm.json" 
+      "drm_license_url": "https://dl.dropbox.com/scl/fi/9rkvmcf4fntst03u5zkbd/tcm.json?rlkey=fl85ec3xubjni6d40lzdca9sh&st=drheuvd1&dl=0" 
       }, 
       { "name": "EUROPA EUROPA", 
       "ico": "https://panelssh.com.ar/Img/europaeuropa.png", 

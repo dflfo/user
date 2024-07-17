@@ -641,70 +641,70 @@
 [ 
 
 { "name": "ESPN", 
-"ico": "https://panelssh.com.ar/Img/espn.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN/EXPORTACION_WEB/SS/ESPN_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/ilpvta55oojr7gzx4mcer/espn.json?rlkey=h8c6f4ozy2hvjawivzvdmmirp&st=3512334a&dl=0" 
 }, 
 { "name": "ESPN 2", 
-"ico": "https://panelssh.com.ar/Img/espn2.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/x9otu7rqrfg2f520q033u/espn2.json?rlkey=5mtjkwwvywh700s3ejj3239kn&st=ibfs96xl&dl=0" 
 }, 
 { "name": "ESPN 3", 
-"ico": "https://panelssh.com.ar/Img/espn3.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN3HD/EXPORTACION_WEB/SS/ESPN3HD_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/1vabhrvge022e02zfupnz/espn3.json?rlkey=loluz3pif8y3ajbcomqxcunu3&st=wk5j5gmf&dl=0" 
 }, 
 { "name": "ESPN 4", 
-"ico": "https://panelssh.com.ar/Img/espn4.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN4HD/EXPORTACION_WEB/SS/ESPN4HD_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/sfys13bg9wo77l27nr7dk/espn4.json?rlkey=6xbqb5blxx1ku04qjybfx5gc0&st=59uqgd67&dl=0" 
 },
 { "name": "ESPN PREMIUM AR", 
 "ico": "https://panelssh.com.ar/Img/espnpremium.png", 
 "uri": "http://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/xuwqu21ick0qhxtzerfwp/espnpremiun.json?rlkey=0ofmp7dtkk6wrs4h4g1v40z7g&st=bzpgydbc&dl=0" 
 }, 
 { "name": "TNT SPORTS AR", 
-"ico": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TNTSPORTS/EXPORTACION_WEB/SS/TNTSPORTS_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/nb8r1zolf139pd0xfgo0s/tntsports.json?rlkey=68xzjsi1xjoekq29pheam11hn&st=t9fniu9t&dl=0" 
 }, 
 { "name": "FOX SPORTS", 
-"ico": "https://panelssh.com.ar/Img/pruebafox.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/FOXSPORTSHD/EXPORTACION_WEB/SS/FOXSPORTSHD_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://dl.dropboxusercontent.com/scl/fi/9oap57eb10qy6guc2wjvo/foxsport.json?rlkey=6rjssxsd10fcjwn46qnsn7edn&st=kg230urs&dl=0" 
 }, 
 { "name": "FOX SPORTS 2", 
-"ico": "https://panelssh.com.ar/Img/foxsports2.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/FOXSPORTS2HD/EXPORTACION_WEB/SS/FOXSPORTS2HD_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/38fwetra7g7ankp0imz4f/foxsports2.json?rlkey=y9ttva5j2fzwb7xkt808tt46t&st=0wf1hmiu&dl=0" 
 }, 
 { "name": "FOX SPORTS 3", 
-"ico": "https://panelssh.com.ar/Img/foxsports3.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/FOXSPORTS3HD/EXPORTACION_WEB/SS/FOXSPORTS3HD_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/4upliub0g3wyi5vnm2xot/foxsports3.json?rlkey=mekc9g7bc9z17t3vqd53zs3bo&st=m1psvqce&dl=0" 
 }, 
 { "name": "TYC SPORTS", 
-"ico": "https://panelssh.com.ar/Img/tycsports.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TYCSPORTS/EXPORTACION_WEB/SS/TYCSPORTS_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/qkovgyotwmzxywgfff68s/tycsports.json?rlkey=ju2rwy6ovgak4ae1gf5pizopd&st=zpsg3rs1&dl=0" 
 }, 
 { "name": "DEPORTV", 
 "ico": "https://panelssh.com.ar/Img/deportv.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f362097815892a4b83950f1d106ff0b2&key=4349e42e81c31a8389f4a42fcd298928" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/bqwhwz6nctu0d0vdio0ut/deportv.json?rlkey=dgd7fr5imyqgiy1cbcmucz9j1&st=gdwk0zrv&dl=0" 
 }, 
 { "name": "DIRECTV SPORTS", 
 "ico": "https://panelssh.com.ar/Img/dsports.png", 

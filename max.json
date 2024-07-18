@@ -292,7 +292,7 @@
 "mode": false, 
 "lista": 
 [ { "name": "AMERICA TV", 
-"ico": "https://panelssh.com.ar/Img/americatv.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/AMERICATV/EXPORTACION_WEB/SS/AMERICATV_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://dl.dropbox.com/scl/fi/zgiio0vxur0c6ube5bl8r/america.json?rlkey=ip1o2m7ia30a2hwh4yqdyp4zr&st=yd2w4q7u&dl=0" 
@@ -304,7 +304,7 @@
 "drm_license_url": "https://dl.dropbox.com/scl/fi/y45it0kdjdtxsebi82n1b/canal9.json?rlkey=b1gpz08ihjqb1y0eziiwkmzq4&st=sxs1wv2d&dl=0" 
 }, 
 { "name": "TELEFE", 
-"ico": "https://panelssh.com.ar/Img/telefe.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TELEFE/EXPORTACION_WEB/SS/TELEFE_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://dl.dropbox.com/scl/fi/rfsgzrktyji7pcbnc43w5/telefe.json?rlkey=oomn96vjv4dnroqjvgtl59xu0&st=grnsvwjs&dl=0" 
@@ -316,43 +316,43 @@
 "drm_license_url": "https://dl.dropbox.com/scl/fi/0jgaz4oc02zuuxyfd8tzp/eltrece.json?rlkey=s2gx13ldcrs52xwyxmogmoteo&st=lj6m5l9r&dl=0" 
 }, 
 { "name": "TN NOTICIAS", 
-"ico": "https://panelssh.com.ar/Img/tn.png", 
+"ico": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmkGoteCMPucWHA-7pLLKPLFcjntx49ZKKhNiejIImQ0H6zWzVjcab2GfeamMborD5vUskUYOOdjHsoGAUfaPC6D5cudTLsTc7UytP-hfl7nWwIiFZ1GMAwgIJbg6nfKTJn251lS21edg/s1600/tn+tvlaint.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd", 
 "drm_scheme": "ClearKey",
  "drm_license_url": "https://panelssh.com.ar/Keys/tnnoticias.json" 
 }, 
 { "name": "A24", 
-"ico": "https://panelssh.com.ar/Img/a24_new.png", 
+"ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://dl.dropbox.com/scl/fi/y1bv0hfa4mnj4wd1j9z96/america24.json?rlkey=k0wiaanvm78od2g0yizrwfqnv&st=oi79btyg&dl=0"
  },
  { "name": "C5N",
- "ico": "https://panelssh.com.ar/Img/c5n_new.png",
+ "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/C5N/EXPORTACION_WEB/SS/C5N_t-290x163.png",
  "uri": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://dl.dropbox.com/scl/fi/lic45w62n1g20j68issog/c5n.json?rlkey=v5hj5z1tqjwdqhsyt2cr4sdkd&st=fv2hqfrk&dl=0"
  },
  { "name": "CANAL 26",
- "ico": "https://panelssh.com.ar/Img/canal26.png",
+ "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CANAL26/EXPORTACION_WEB/SS/CANAL26_t-290x163.png",
  "uri": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://dl.dropbox.com/scl/fi/r53akq11vsunrllpgx5h3/canal26.json?rlkey=mkucxh35efnsedbn7142jzqj7&st=mygftxnh&dl=0"
  },
  { "name": "CRONICA TV",
- "ico": "https://panelssh.com.ar/Img/cronicatv.png",
+ "ico": "https://i.pinimg.com/736x/43/e7/ae/43e7ae0dbbe5cf9e7035156b67a213ed.jpg",
  "uri": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://dl.dropbox.com/scl/fi/etuk81d1siprtujvryork/cronica.json?rlkey=eq8e12pfu7sez6nkf2qtyiwtf&st=u3ojocsj&dl=0"
  },
  { "name": "LN+",
- "ico": "https://panelssh.com.ar/Img/ln.png",
+ "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBSswi4MfUrYgykMNi0mPJuEts3NbhOIuYSA&s",
  "uri": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://dl.dropbox.com/scl/fi/n0b8ghshb0o9o3mooi4do/lanacion.json?rlkey=cadekz6z5hojrgljxj0fzywel&st=ic55yd6e&dl=0"
  },
  { "name": "TV PUBLICA",
- "ico": "https://panelssh.com.ar/Img/TVP.png",
+ "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHwirhLVqFXVWOqIW3bABttTSEHznHq5nFDQ&s",
  "uri": "http://edge-live11-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
  "drm_scheme": "ClearKey",
  "drm_license_url": "https://dl.dropbox.com/scl/fi/l2dji1vomftw3h8ezvybv/tvpublica.json?rlkey=u4wooez0rf5pw7jus79iyaql8&st=d8rkzprz&dl=0"

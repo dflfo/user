@@ -133,7 +133,7 @@
 },
 {
   "name": "NEXT TV",
-    "ico": "",
+    "ico": "https://play-lh.googleusercontent.com/2QL-n3LJfxVrKwtVEkIKM8Z7rZ9GeTp9xJkXHWqK0qgW7W_0TmvBToXv7SPIgw3lzTU",
   "uri": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""
@@ -147,7 +147,7 @@
 },
 {
   "name": "ÑANDUTI TV",
-    "ico": "",
+    "ico": "https://i0.wp.com/logoroga.com/wp-content/uploads/2012/04/%C3%B1anduti.png",
   "uri": "https://tvdatta.com:3839/live/nandutitvlive.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""

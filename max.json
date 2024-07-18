@@ -295,25 +295,25 @@
 "ico": "https://panelssh.com.ar/Img/americatv.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/zgiio0vxur0c6ube5bl8r/america.json?rlkey=ip1o2m7ia30a2hwh4yqdyp4zr&st=yd2w4q7u&dl=0" 
 }, 
 { "name": "CANAL 9", 
 "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/y45it0kdjdtxsebi82n1b/canal9.json?rlkey=b1gpz08ihjqb1y0eziiwkmzq4&st=sxs1wv2d&dl=0" 
 }, 
 { "name": "TELEFE", 
 "ico": "https://panelssh.com.ar/Img/telefe.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/rfsgzrktyji7pcbnc43w5/telefe.json?rlkey=oomn96vjv4dnroqjvgtl59xu0&st=grnsvwjs&dl=0" 
 },
 { "name": "EL TRECE", 
 "ico": "https://panelssh.com.ar/Img/eltrece.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76" 
+"drm_license_url": "https://dl.dropbox.com/scl/fi/0jgaz4oc02zuuxyfd8tzp/eltrece.json?rlkey=s2gx13ldcrs52xwyxmogmoteo&st=lj6m5l9r&dl=0" 
 }, 
 { "name": "TN NOTICIAS", 
 "ico": "https://panelssh.com.ar/Img/tn.png", 
@@ -325,37 +325,37 @@
 "ico": "https://panelssh.com.ar/Img/a24_new.png", 
 "uri": "https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8"
+ "drm_license_url": "https://dl.dropbox.com/scl/fi/y1bv0hfa4mnj4wd1j9z96/america24.json?rlkey=k0wiaanvm78od2g0yizrwfqnv&st=oi79btyg&dl=0"
  },
  { "name": "C5N",
  "ico": "https://panelssh.com.ar/Img/c5n_new.png",
  "uri": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4"
+ "drm_license_url": "https://dl.dropbox.com/scl/fi/lic45w62n1g20j68issog/c5n.json?rlkey=v5hj5z1tqjwdqhsyt2cr4sdkd&st=fv2hqfrk&dl=0"
  },
  { "name": "CANAL 26",
  "ico": "https://panelssh.com.ar/Img/canal26.png",
  "uri": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092"
+ "drm_license_url": "https://dl.dropbox.com/scl/fi/r53akq11vsunrllpgx5h3/canal26.json?rlkey=mkucxh35efnsedbn7142jzqj7&st=mygftxnh&dl=0"
  },
  { "name": "CRONICA TV",
  "ico": "https://panelssh.com.ar/Img/cronicatv.png",
  "uri": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352"
+ "drm_license_url": "https://dl.dropbox.com/scl/fi/etuk81d1siprtujvryork/cronica.json?rlkey=eq8e12pfu7sez6nkf2qtyiwtf&st=u3ojocsj&dl=0"
  },
  { "name": "LN+",
  "ico": "https://panelssh.com.ar/Img/ln.png",
  "uri": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c"
+ "drm_license_url": "https://dl.dropbox.com/scl/fi/n0b8ghshb0o9o3mooi4do/lanacion.json?rlkey=cadekz6z5hojrgljxj0fzywel&st=ic55yd6e&dl=0"
  },
  { "name": "TV PUBLICA",
  "ico": "https://panelssh.com.ar/Img/TVP.png",
  "uri": "http://edge-live11-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662"
+ "drm_license_url": "https://dl.dropbox.com/scl/fi/l2dji1vomftw3h8ezvybv/tvpublica.json?rlkey=u4wooez0rf5pw7jus79iyaql8&st=d8rkzprz&dl=0"
  }, 
 { "name": "INFORMACION PERIODISTICA",
  "ico": "https://panelssh.com.ar/Img/informacionperiodistica.png",

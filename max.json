@@ -1223,19 +1223,19 @@
         "drm_license_url": "https://dl.dropbox.com/scl/fi/y8noukq1pvl9od96fheq7/animalplanet.json?rlkey=a3rm1odn4w7wqgj00ga36ptjp&st=pvfqe38o&dl=0" 
         }, 
         { "name": "HGTV", 
-        "ico": "https://panelssh.com.ar/Img/HGTV.png", 
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png", 
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd", 
         "drm_scheme": "ClearKey", 
         "drm_license_url": "https://dl.dropbox.com/scl/fi/sk5l5wzilnmmk65i3s6pz/dschgtv.json?rlkey=p4ybut2vo5q3rl93yiynsxr7r&st=gavksqem&dl=0" 
         }, 
         { "name": "SUN CHANNEL", 
-        "ico": "https://panelssh.com.ar/Img/SUN_CHANNEL.png", 
+        "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/SUNCHANNEL/EXPORTACION_WEB/SS/SUNCHANNEL_t-290x163.png", 
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd", 
         "drm_scheme": "ClearKey", 
         "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=158177692aa3463eae5f4e1f72403e9c&key=1c6c026fba9cf7ecb576c7bedce0ead4" 
         }, 
-        { "name": "GOURMET", 
-        "ico": "https://panelssh.com.ar/Img/GOURMET.png", 
+        { "name": "EL GOURMET", 
+        "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ELGOURMETCHANNEL/EXPORTACION_WEB/SS/ELGOURMETCHANNEL_t-290x163.png", 
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd", 
         "drm_scheme": "ClearKey", 
         "drm_license_url": "https://dl.dropbox.com/scl/fi/92ksfkp495jdnw11at73h/elgourmet.json?rlkey=o1u5tydxpjvxss6gdk2bb9ym9&st=ivwet0e0&dl=0" 
@@ -1247,19 +1247,19 @@
         "lista": 
         [ 	 
           { "name": "TELEVISA", 
-          "ico": "https://panelssh.com.ar/Img/newtelevisa.png", 
+          "ico": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logotipo_de_Televisa_%282000-2016%29.png", 
           "uri": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8", 
           "drm_scheme": "", 
           "drm_license_url": "" 
           }, 	 
           { "name": "CANAL DE LAS ESTRELLAS", 
-          "ico": "https://panelssh.com.ar/Img/canaldelasestrellas.png", 
+          "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CANALDELASESTRELLASHD/EXPORTACION_WEB/SS/CANALDELASESTRELLASHD_t-290x163.png", 
           "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://dl.dropbox.com/scl/fi/ineovjz6o9x23q8kxax43/delasestrellas.json?rlkey=ctet6jd3ksohpwsesag9eoaeh&st=jbjxh45k&dl=0" 
           }, 	 
           { "name": "PASIONES", 
-          "ico": "https://panelssh.com.ar/Img/pasiones.png", 
+          "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PASIONESHD/EXPORTACION_WEB/SS/PASIONESHD_t-290x163.png", 
           "uri": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://dl.dropbox.com/scl/fi/bdbl7r0y9z97yaaxxq00t/pasiones.json?rlkey=attrwz8ny7d7amtoi0o5daykz&st=mtf32bh3&dl=0" 
@@ -1271,25 +1271,25 @@
           "drm_license_url": "https://dl.dropbox.com/scl/fi/utmcwuwsfvnkdktj0i8u2/tntnovelas.json?rlkey=tbgbs8qti1uz0kxasx1k647lz&st=vl43vrm7&dl=0" 
           }, 	 
           { "name": "SONY NOVELAS", 
-          "ico": "https://panelssh.com.ar/Img/sonynovelas2.png", 
+          "ico": "https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest?cb=20220403004504", 
           "uri": "https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8", 
           "drm_scheme": "", 
           "drm_license_url": "" 
           }, 
           { "name": "CANAL A", 
-          "ico": "https://panelssh.com.ar/Img/canala.png", 
+          "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhMYOX00Bs1whCGDS7UvNoU6j7nQDIMUq3g&s", 
           "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd", 
           "drm_scheme": "clearkey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/canala.json" 
           }, 
           { "name": "BRAVO TV", 
-          "ico": "https://panelssh.com.ar/Img/newbravotv.png", 
+          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/2560px-Bravo_TV.svg.png", 
           "uri": "http://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd", 
           "drm_scheme": "clearkey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/bravotv.json" 
           }, 
           { "name": "SONY COMEDIAS", 
-          "ico": "https://panelssh.com.ar/Img/sonycomedias2.png", 
+          "ico": "https://archive.org/download/brootv_SONY_CCN/SONY_COMEDIAS.png", 
           "uri": "https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8", 
           "drm_scheme": "", 
           "drm_license_url": "" 
@@ -1329,15 +1329,9 @@
           "uri": "https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://dl.dropbox.com/scl/fi/6g0jmgk41te21x2z7dtvm/footnetwork.json?rlkey=64ts59yunkka5vizfekvd5yuj&st=puba8tyl&dl=0" 
-          }, 
-          { "name": "GLITZ", 
-          "ico": "https://panelssh.com.ar/Img/glitz.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/Glitz/SA_Live_dash_enc/Glitz.mpd", 
-          "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/glitz.json" 
-          }, 
+          },
           { "name": "HOLA TV", 
-          "ico": "https://panelssh.com.ar/Img/holatv.png", 
+          "ico": "https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png", 
           "uri": "https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://dl.dropbox.com/scl/fi/er96n3rvx38bdvdbo9i4s/holatv.json?rlkey=hfs92d2xfvbh2zm5uktv3rurx&st=a6g85jlg&dl=0" 
@@ -1545,7 +1539,7 @@
             "drm_license_url": "https://panelssh.com.ar/Keys/antena3.json" 
             }, 
             { "name": "TELEMUNDO INTERNACIONAL", 
-            "ico": "https://panelssh.com.ar/Img/telemundointernacional.png", 
+            "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/TELEMUNDOHD/EXPORTACION_WEB/SS/TELEMUNDOHD_t-290x163.png", 
             "uri": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd", 
             "drm_scheme": "ClearKey", 
             "drm_license_url": "https://panelssh.com.ar/Keys/telemundointernacional.json" 

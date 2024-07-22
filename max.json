@@ -1001,37 +1001,37 @@
     "lista": 
     [ 	 
       { "name": "CINECANAL", 
-      "ico": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png", 
+      "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CINECANALHD/EXPORTACION_WEB/SS/CINECANALHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/ktxec20jjojq8r206ev1g/cinecanal.json?rlkey=9qzc1cgc8qujk8cj5n3wmx2by&st=wtkdvsgi&dl=0" 
       }, 
       { "name": "SPACE", 
-      "ico": "https://imagenes.gatotv.com/logos/canales/claros/space.png", 
+      "ico": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/SPACEHD/EXPORTACION_WEB/SS/SPACEHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/8r41mi46c0w6ne70q35gy/space.json?rlkey=9ba2mgtmmp7gphsuf5fb7h0sc&st=lex1694h&dl=0" 
       }, 
       { "name": "TNT", 
-      "ico": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png", 
+      "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TNTHD/EXPORTACION_WEB/SS/TNTHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://www.dropbox.com/scl/fi/nhwlx5cybrirf8risbcej/tnt.json?rlkey=jdki6wdd2hh8to44q58ro3omf&st=og30rdwk&dl=0" 
       }, 
       { "name": "TNT SERIES", 
-      "ico": "https://i.ibb.co/0Fb9ncz/descarga-7.png", 
+      "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TNTSERIESHD/EXPORTACION_WEB/SS/TNTSERIESHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/5c3hvh2uz43233uppan46/tntseries.json?rlkey=o952msfv60o0zyi2yfpwlntnf&st=x41teft4&dl=0" 
       }, 	 
       { "name": "WARNER CHANNEL", 
-      "ico": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg", 
+      "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/WARNERCHANNELHD/EXPORTACION_WEB/SS/WARNERCHANNELHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/50bmrsbkflruowqqcx1zs/warner.json?rlkey=87mq4m79blrh9bc4aym81cqyr&st=3s1bxx4u&dl=0" 
       },
       { "name": "AXN", 
-      "ico": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg", 
+      "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/AXNHD/EXPORTACION_WEB/SS/AXNHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/xi8qpvdq25eceb7tvx5t4/axn.json?rlkey=td4x232vfeajonergb4u7r4k4&st=t1s19lmd&dl=0" 
@@ -1043,7 +1043,7 @@
       "drm_license_url": "https://dl.dropbox.com/scl/fi/mzorjhb020jdvoqiu8a7z/sonymovies.json?rlkey=l75dwu88rrgt4ososdn633rb4&st=zq4cpkz7&dl=0" 
       }, 
       { "name": "CINE AR", 
-      "ico": "https://panelssh.com.ar/Img/cinear.png", 
+      "ico": "https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0" 
@@ -1055,25 +1055,19 @@
       "drm_license_url": "https://dl.dropbox.com/scl/fi/udw1e6ymk75w1jbuvsmn1/cinemax.json?rlkey=6m4buh7ss6anuofyj5ozu75xi&st=hztmmbhb&dl=0" 
       }, 
       { "name": "VOLVER", 
-      "ico": "https://panelssh.com.ar/Img/volver_new.png", 
+      "ico": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/volver.json" 
       }, 
-      { "name": "GOLDEN PLUS HD", 
-      "ico": "https://panelssh.com.ar/Img/newgoldenplus.png", 
-      "uri": "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8", 
-      "drm_scheme": "", 
-      "drm_license_url": "" 
-      }, 
       { "name": "FX", 
-      "ico": "https://panelssh.com.ar/Img/fx.png", 
+      "ico": "https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/FXHD/EXPORTACION_WEB/SS/FXHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/fx.json" 
       }, 
       { "name": "STAR CHANNEL", 
-      "ico": "https://panelssh.com.ar/Img/starchannel.png", 
+      "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/starchannel.json" 
@@ -1085,49 +1079,49 @@
       "drm_license_url": "https://panelssh.com.ar/Keys/sonychannel.json" 
       }, 
       { "name": "TCM", 
-      "ico": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png", 
+      "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TCM/EXPORTACION_WEB/SS/TCM_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/9rkvmcf4fntst03u5zkbd/tcm.json?rlkey=fl85ec3xubjni6d40lzdca9sh&st=drheuvd1&dl=0" 
       }, 
       { "name": "EUROPA EUROPA", 
-      "ico": "https://panelssh.com.ar/Img/europaeuropa.png", 
+      "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/EUROPAEUROPAHD/EXPORTACION_WEB/SS/EUROPAEUROPAHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/europaeuropa.json" 
       }, 
       { "name": "STUDIO UNIVERSAL", 
-      "ico": "https://panelssh.com.ar/Img/studiouniversal.png", 
+      "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/STUDIOUNIVERSAL/EXPORTACION_WEB/SS/STUDIOUNIVERSAL_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/studiouniversal.json" 
       }, 
       { "name": "A&E", 
-      "ico": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg", 
+      "ico": "https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/AEMUNDOHD/EXPORTACION_WEB/SS/AEMUNDOHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/47az9cgdydbtq6ns18vy4/aye.json?rlkey=ref3l6z3qeuqdjr0zmnh24lpf&st=gd6jxy3m&dl=0" 
       }, 
       { "name": "AMC", 
-      "ico": "https://panelssh.com.ar/Img/newamc.png", 
+      "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/AMCHD/EXPORTACION_WEB/SS/AMCHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/pss1sbi7vqp6qlr7zbzbo/amc.json?rlkey=v783xv5izqh2mwhq4oefcmihr&st=vwvwm2in&dl=0" 
       }, 
       { "name": "A3 SERIES", 
-      "ico": "https://panelssh.com.ar/Img/a3series.png", 
+      "ico": "https://clarovideocdn3.clarovideo.net/ATRESPLAYER/PELICULAS/A3SERIES/EXPORTACION_WEB/SS/A3SERIES_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/idxl8gbm8ksnt9rvdsmwu/a3series.json?rlkey=elos2kgnkcph99c3m1mybp2rc&st=9omgyg59&dl=0" 
       }, 
       { "name": "COMEDY CENTRAL", 
-      "ico": "https://panelssh.com.ar/Img/comedycentral.png", 
+      "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/COMEDYCENTRALHD/EXPORTACION_WEB/SS/COMEDYCENTRALHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/4530yp2ynkda59evokez1/comedycentral.json?rlkey=zpvg09aivt08mq16c36z867vv&st=nul2dpd1&dl=0" 
       }, 
       { "name": "PARAMOUNT", 
-      "ico": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg", 
+      "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/PARAMOUNTCHANNELHD/EXPORTACION_WEB/SS/PARAMOUNTCHANNELHD_t-290x163.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://dl.dropbox.com/scl/fi/hhgj91ja4mtqy0lbzzsct/paramount.json?rlkey=70f0jazk0cqv6g8qxtnyck8mx&st=f89xhbdq&dl=0" 
@@ -1139,7 +1133,7 @@
       "drm_license_url": "https://dl.dropbox.com/scl/fi/ohy3pvnijffxplbobw3mf/a3cine.json?rlkey=q00ya4aj23j4foz1q3i189agv&st=8v2japk7&dl=0" 
       }, 
       { "name": "FILM & ARTS", 
-      "ico": "https://panelssh.com.ar/Img/filmyarts.png", 
+      "ico": "https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png", 
       "uri": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd", 
       "drm_scheme": "ClearKey", 
       "drm_license_url": "https://panelssh.com.ar/Keys/filmyarts.json" 

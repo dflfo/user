@@ -1199,7 +1199,7 @@
         "drm_license_url": "https://dl.dropbox.com/scl/fi/ir22durwp6ce6lkbs7b0q/dsctheater.json?rlkey=lmn06dc0kbwwa7kn85bpdaafd&st=lex6l0ne&dl=0" 
         }, 
         { "name": "DISCOVERY TLC", 
-        "ico": "https://panelssh.com.ar/Img/DISCOVERY_TLC.png", 
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png", 
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd", 
         "drm_scheme": "ClearKey", 
         "drm_license_url": "https://dl.dropbox.com/scl/fi/041d1yw6cwsjojb9b34nb/dsctlc.json?rlkey=9qrlg2n1408vnerx5ydm688ow&st=b56n45pt&dl=0" 

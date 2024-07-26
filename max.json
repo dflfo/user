@@ -358,16 +358,16 @@
  "drm_license_url": "https://dl.dropbox.com/scl/fi/l2dji1vomftw3h8ezvybv/tvpublica.json?rlkey=u4wooez0rf5pw7jus79iyaql8&st=d8rkzprz&dl=0"
  }, 
 { "name": "INFORMACION PERIODISTICA",
- "ico": "https://panelssh.com.ar/Img/informacionperiodistica.png",
+ "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/1761846241_InformacinPeriodstica(4).png.6b5a0e7149a823e40063f22b50d348c2.png",
  "uri": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://panelssh.com.ar/Keys/infoperio.json"
+ "drm_license_url": "https://dl.dropbox.com/scl/fi/9ziuujh8jvvaf96i7j4y9/informacionperiodistica.json?rlkey=p0cyobh4vtd0o9191p35qrqhz&st=bj24usr5&dl=0"
  },
  { "name": "ENCUENTRO",
- "ico": "https://panelssh.com.ar/Img/ENCUENTRO_NEW.png",
+ "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png",
  "uri": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://panelssh.com.ar/Keys/encuentro.json"
+ "drm_license_url": "https://dl.dropbox.com/scl/fi/3zz4ua8fyo7e2xln80b2o/encuentro.json?rlkey=rhsesfe4fcy96qobvyiewww4z&st=dvczxk8q&dl=0"
  },
  { "name": "CANAL RURAL",
  "ico": "https://panelssh.com.ar/Img/canalrural.png",

@@ -14,7 +14,7 @@
 {
   "name": "LA TELE",
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/LATELE/EXPORTACION_WEB/SS/LATELE_t-290x163.png",
-  "uri": "https://edge-live17-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
+  "uri": "https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
     "drm_scheme": "clearkey",
   "drm_license_url": "https://dl.dropbox.com/scl/fi/q118jxq0g390dywmibhy7/latele.json?rlkey=i6t9puhq8eu7klzp8ahtmxbw2&st=w16dkt2r&dl=0"
 },

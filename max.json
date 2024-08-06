@@ -1301,204 +1301,100 @@
           "mode": false, 
           "lista": 
           [ 
-            {
-        "name": "TELEMUNDO INTERNACIONAL",
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e"
-      },
-      {
-        "name": "TELEMUNDO PR",
-        "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8",
-        "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIYcHdizRnMYZcznEDxvFhhB3UGacCVYPW7Q&s",
-          "drm_scheme": "ClearKey", 
-          "drm_license_url": "" 
-         
-      },
-      {
-        "name": "TELEMUNDO TX",
-        "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951226",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/74/Telemundo_Central_Texas_Logo.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": "" 
-         
-      },
-      {
-        "name": "TELEMUNDO FL",
-        "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951227",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "TELEMUNDO NE",
-        "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951228",
-        "ico": "https://logowik.com/content/uploads/images/240_telemundo.jpg",
-        
-      },
-      {
-        "name": "TELEMUNDO CA",
-        "uri": "https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE",
-        "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCDiIsRFIOnbmJlJPuUgEBH9pAfDWtK2cX8w&s",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "AZTECA INTERNACIONAL",
-        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "AZTECA UNO",
-        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Azteca_Uno_2017.svg/640px-Azteca_Uno_2017.svg.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "BBC World News",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1280px-BBC_World_News_2022.svg.png",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=019f72f2091d4cbea59ff8c85b117f86&key=a4eac51195506752f9f63ad24def9c37"
-      },
-      {
-        "name": "AL JAZEERA",
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Alljazzera/SA_Live_dash_enc/Alljazzera.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "http://78.47.174.211/logos/aljazeera.png",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=137a1a70fa118b695118a3aad9485b13&key=7c35ca36d4452dfa03d88725a0d16105"
-      },
-      {
-        "name": "ANTENA 3 INT",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92",
-        "ico": "https://i.ibb.co/m6dKvL5/antena3.png"
-      },
-      {
-        "name": "TV5MONDE AMERIQUE LATINE",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2j3JGQq7lfmZwqWQL4lhNVxXO7pu29211Dw&s",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62034ff5988b4787b17cdf6f751a3142&key=b3938f0af28b4c0c082b0d4210e389a0"
-      },
-      {
-        "name": "FRANCE 24",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "http://78.47.174.211/logos/france24.png",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=72187f2651724db18505cdcad435841d&key=6f41e05476e34edf7bb9dc51f08f95df"
-      },
-      {
-        "name": "FRANCE 24 ESPAÑOL",
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "http://78.47.174.211/logos/france24.png",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c8a3d29db38c4a9fa9a838c3d4d681db&key=d3aa374c4c0de33f463b4387a18297a6"
-      },
-      {
-        "name": "CNN",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f24708ad1184ee3a04b650941f9894b&key=e5bc7c5ff392119423dbf1c023a7b21c",
-        "ico": "http://78.47.174.211/logos/cnninternacional.png"
-      },
-      {
-        "name": "FOX NEWS",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3fe3f31a5e7b48a1b548e9364757ce66&key=32993fc281207fe915f6f1e990957868",
-        "ico": "http://78.47.174.211/logos/foxnews.png"
-      },
-      {
-        "name": "LIVENOW FROM FOX ",
-        "uri": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-        "ico": "https://i.ibb.co/J2r5j55/LiveNOW.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "ARIRANG TV",
-        "uri": "https://webtvstream.bhtelecom.ba/hls10/arirang_tv.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
-        "ico": "https://i.ibb.co/6w69CWc/arirang.png"
-      },
-      {
-        "name": "NHK WORLD JAPAN",
-        "uri": "https://nhkworld.webcdn.stream.ne.jp:443/www11/nhkworld-tv/global/2003458/live.m3u8",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/320px-NHK_logo_2020.svg.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "TRT WORLD",
-        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:111_HD.smil/manifest.mpd",
-        "ico": "https://i.ibb.co/d7Q6SXr/trt.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "CCTV-1",
-        "uri": "https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8",
-        "ico": "https://i.ibb.co/B6RNrwS/CCTV-1.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "CGTN Español",
-        "uri": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "RT",
-        "uri": "http://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "DW",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0"
-      },
-      {
-        "name": "DW ESPAÑOL",
-        "uri": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",
-        "drm_scheme": "ClearKey", 
-        "drm_license_url": ""
-      },
-      {
-        "name": "EURONEWS",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "https://i.postimg.cc/LXTqp05Q/600px-Euronews-2016-alternative-logo.png",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f"
-      },
-      {
-        "name": "CNNE",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "http://78.47.174.211/logos/cnn.png",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b20ed9da0e5457c9dfd3ae0b6092491&key=98997a7020c18cb28174a2490147830a"
-      },
-      
-      {
-        "name": "TVE",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd",
-        "drm_scheme": "clearkey",
-        "ico": "http://78.47.174.211/logos/tve.png",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53e0a3741e2e4ff5843f165b53309088&key=45095caabd9a359cd7ea3910d865d643"
-      }
+            { "name": "TV CIUDAD", 
+            "ico": "https://www.foromedios.com/uploads/monthly_2020_03/large.sketch-1585655821672.png.c70000e9ebbe2e70a984a3325a35bf5a.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/tvciudad.json" 
+            }, 
+            { "name": "TV5 URUGUAY", 
+            "ico": "https://panelssh.com.ar/Img/canal5uy.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/canal5uy.json" 
+            }, 
+            { "name": "CANAL 4 URUGUAY", 
+            "ico": "https://panelssh.com.ar/Img/canal4uy.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/canal4uy.json" 
+            }, 
+            { "name": "CNN EN ESPAÑOL", 
+            "ico": "https://panelssh.com.ar/Img/CNN_ESPANOL.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/cnnespanol.json" 
+            }, 
+            { "name": "BLOOMBERG", 
+            "ico": "https://panelssh.com.ar/Img/BLOOMBERG.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/bloomberg.json" 
+            }, 
+            { "name": "RAI ITALIA", 
+            "ico": "https://panelssh.com.ar/Img/RAI_ITALIA.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/rai.json" 
+            }, { "name": "TV CHILE", 
+            "ico": "https://panelssh.com.ar/Img/tvchile2.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/tvchile.json" 
+            }, 
+            { "name": "TELESUR", 
+            "ico": "https://panelssh.com.ar/Img/TELE_SUR.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_2A/Telesur.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/telesur.json" 
+            }, 
+            { "name": "CNN INTERNACIONAL", 
+            "ico": "https://panelssh.com.ar/Img/CNN_INTERNACIONAL.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc_2A/CNN_Internacional.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/cnninternacional.json" 
+            }, 
+            { "name": "BBC NEWS", 
+            "ico": "https://panelssh.com.ar/Img/bbcnews.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/bbc.json" 
+            }, 
+            { "name": "EURO NEWS", 
+            "ico": "https://panelssh.com.ar/Img/EURO_NEWS.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/euronews.json" 
+            }, 
+            { "name": "DW", 
+            "ico": "https://panelssh.com.ar/Img/DW_CHANNEL.png", 
+            "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/dw.json" 
+            }, 
+            { "name": "TV ESPAÑA", 
+            "ico": "https://panelssh.com.ar/Img/TV_ESPANA.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/tvespana.json" 
+            }, 
+            { "name": "TV5 MONDE", 
+            "ico": "https://panelssh.com.ar/Img/TV5_MONDE.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/tv5monde.json" 
+            }, { "name": "ANTENA 3", 
+            "ico": "https://panelssh.com.ar/Img/ANTENA3.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/antena3.json" 
+            }, 
+            { "name": "TELEMUNDO INTERNACIONAL", 
+            "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/TELEMUNDOHD/EXPORTACION_WEB/SS/TELEMUNDOHD_t-290x163.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd", 
+            "drm_scheme": "ClearKey", 
+            "drm_license_url": "https://panelssh.com.ar/Keys/telemundointernacional.json" 
+            }
            ] 
          } 
       ]

@@ -251,7 +251,7 @@
     "lista": [
       {
   "name": "EVENTOS py",
-   "ico": "https://logos.flamingtext.com/Word-Logos/eventos-design-beauty-name.png",
+   "ico": "https://dl.dropbox.com/scl/fi/b3ygis222078h6y9squu0/eventos.png?rlkey=yx4spxb0l2meurp520eq6owcd&st=ajje9wvm&dl=0",
   "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
     "drm_scheme": "ClearKey",
   "drm_license_url": "https://dl.dropbox.com/scl/fi/rcuxixcdccb41y46s03z8/verfut.json?rlkey=kw6msfx8w3u84khp0xky84w4g&st=tuvyzf4z&dl=0"
@@ -259,21 +259,21 @@
       {
         "name": "EVENTOS py 2",
         "uri": "https://ssh101.bozztv.com/ssh101/pedrodj/playlist.m3u8",
-        "ico": "https://logos.flamingtext.com/Word-Logos/eventos-design-beauty-name.png",
+        "ico": "https://dl.dropbox.com/scl/fi/b3ygis222078h6y9squu0/eventos.png?rlkey=yx4spxb0l2meurp520eq6owcd&st=ajje9wvm&dl=0",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "EVENTOS py 3",
         "uri": "https://ssh101.bozztv.com/ssh101/virus/playlist.m3u8",
-        "ico": "https://logos.flamingtext.com/Word-Logos/eventos-design-beauty-name.png",
+        "ico": "https://dl.dropbox.com/scl/fi/b3ygis222078h6y9squu0/eventos.png?rlkey=yx4spxb0l2meurp520eq6owcd&st=ajje9wvm&dl=0",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "EVENTOS py 4",
         "uri": "https://rpn3.bozztv.com/ssh101/ssh101/chupamelapija/playlist.m3u8",
-        "ico": "https://logos.flamingtext.com/Word-Logos/eventos-design-beauty-name.png",
+        "ico": "https://dl.dropbox.com/scl/fi/b3ygis222078h6y9squu0/eventos.png?rlkey=yx4spxb0l2meurp520eq6owcd&st=ajje9wvm&dl=0",
         "drm_scheme": "",
         "drm_license_url": "" 
 

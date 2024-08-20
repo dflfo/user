@@ -1223,12 +1223,6 @@
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/orbe21.json" 
           }, 
-          { "name": "SANTA MARIA", 
-          "ico": "https://seekvectorlogo.net/wp-content/uploads/2019/05/santa-maria-a-part-of-paulig-group-vector-logo.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_2A/Senal_Maria.mpd", 
-          "drm_scheme": "ClearKey", 
-          "drm_license_url": "https://panelssh.com.ar/Keys/santamaria.json" 
-          }, 
           { "name": "TELEMAX", 
           "ico": "https://www.canal26.com/images/open-graph/telemax_logo.png", 
           "uri": "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist.m3u8", 
@@ -1237,7 +1231,7 @@
           }, 
           { "name": "WOBI", 
           "ico": "https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png", 
-          "uri": "https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc_2A/WOBI.mpd", 
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd", 
           "drm_scheme": "ClearKey", 
           "drm_license_url": "https://panelssh.com.ar/Keys/wobi.json" 
           } 
@@ -1367,24 +1361,13 @@
             "drm_license_url": "https://panelssh.com.ar/Keys/euronews.json" 
             }, 
             { "name": "DW", 
-            "ico": "https://panelssh.com.ar/Img/DW_CHANNEL.png", 
+            "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DW/EXPORTACION_WEB/SS/DW_t-290x163.png", 
             "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd", 
             "drm_scheme": "ClearKey", 
             "drm_license_url": "https://panelssh.com.ar/Keys/dw.json" 
             }, 
-            { "name": "TV ESPAÑA", 
-            "ico": "https://panelssh.com.ar/Img/TV_ESPANA.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd", 
-            "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/tvespana.json" 
-            }, 
-            { "name": "TV5 MONDE", 
-            "ico": "https://panelssh.com.ar/Img/TV5_MONDE.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd", 
-            "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/tv5monde.json" 
-            }, { "name": "ANTENA 3", 
-            "ico": "https://panelssh.com.ar/Img/ANTENA3.png", 
+            { "name": "ANTENA 3", 
+            "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ANTENA3/EXPORTACION_WEB/SS/ANTENA3_t-290x163.png", 
             "uri": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd", 
             "drm_scheme": "ClearKey", 
             "drm_license_url": "https://panelssh.com.ar/Keys/antena3.json" 

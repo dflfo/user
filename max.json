@@ -1345,7 +1345,7 @@
             }, 
             { "name": "EURO NEWS", 
             "ico": "https://dl.dropbox.com/scl/fi/mc87o1p4aw9juq7kq3lc0/euronews.png?rlkey=i9ryd1o9qvdhks8rgh95unpdk&st=nrlcrf6j&dl=0", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd", 
+            "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd", 
             "drm_scheme": "ClearKey", 
             "drm_license_url": "https://dl.dropbox.com/scl/fi/oo4al8rnc6cf0s0ep0kf8/euronews.json?rlkey=bqexo86a0ruclwgtlhxhtuwkw&st=sedp6025&dl=0" 
             }, 
@@ -1357,13 +1357,13 @@
             }, 
             { "name": "ANTENA 3", 
             "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ANTENA3/EXPORTACION_WEB/SS/ANTENA3_t-290x163.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd", 
+            "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/antena3.json" 
+            "drm_license_url": "https://dl.dropbox.com/scl/fi/64fmyyye5frai7hx5l2ox/antena3.json?rlkey=sx2u4yl3xvhzaxzx0xteqmg64&st=bb1hkdxc&dl=0" 
             }, 
             { "name": "TELEMUNDO INTERNACIONAL", 
             "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/TELEMUNDOHD/EXPORTACION_WEB/SS/TELEMUNDOHD_t-290x163.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd", 
+            "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd", 
             "drm_scheme": "ClearKey", 
             "drm_license_url": "https://dl.dropbox.com/scl/fi/t64mx80jdczi8dttf7aut/telemundointer.json?rlkey=thonsd813k7gnbxz0t4qrt7vs&st=hu3o44vp&dl=0" 
             }

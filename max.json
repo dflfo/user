@@ -1296,75 +1296,64 @@
           "lista": 
           [ 
             { "name": "TV CIUDAD", 
-            "ico": "https://www.foromedios.com/uploads/monthly_2020_03/large.sketch-1585655821672.png.c70000e9ebbe2e70a984a3325a35bf5a.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd", 
+            "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIO3z-hmyjB-O59bLw9YO8WUPJX7eIFFyPJ6lMOVaGklnMlICd3IAX3q8U8wUraXNpVE&usqp=CAU", 
+            "uri": "https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/tvciudad.json" 
-            }, 
-            { "name": "TV5 URUGUAY", 
-            "ico": "https://panelssh.com.ar/Img/canal5uy.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd", 
-            "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/canal5uy.json" 
-            }, 
-            { "name": "CANAL 4 URUGUAY", 
-            "ico": "https://panelssh.com.ar/Img/canal4uy.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd", 
-            "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/canal4uy.json" 
+            "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347" 
             }, 
             { "name": "CNN EN ESPAÑOL", 
-            "ico": "https://panelssh.com.ar/Img/CNN_ESPANOL.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd", 
+            "ico": "https://dl.dropbox.com/scl/fi/oephqsofqu6fuuvhjtlkk/CNN-ESPA-OL.jpg?rlkey=6wl9kgeswz33le8lkfcxje5i6&st=mdd6y2pb&dl=0", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/cnnespanol.json" 
+            "drm_license_url": "https://dl.dropbox.com/scl/fi/c9cvc10krsmlczvw3qy8e/cnnes.json?rlkey=hsyq8bxx4nellmrlkvmwgffcg&st=atgg2j86&dl=0" 
             }, 
             { "name": "BLOOMBERG", 
-            "ico": "https://panelssh.com.ar/Img/BLOOMBERG.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd", 
+            "ico": "https://fontmeme.com/images/Bloomberg-Television-Logo.jpg", 
+            "uri": "https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/bloomberg.json" 
+            "drm_license_url": "https://dl.dropbox.com/scl/fi/y053aeyyetpz3arsougpn/bloomberg.json?rlkey=x6xv8v45zvu3jkd866f5ljnwq&st=hilt9av1&dl=0" 
             }, 
             { "name": "RAI ITALIA", 
-            "ico": "https://panelssh.com.ar/Img/RAI_ITALIA.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd", 
+            "ico": "https://dl.dropbox.com/scl/fi/55fqg3n52508ybmsxsrr8/rai-italia.png?rlkey=zcl04apdtak9lr6zxmpfvklkx&st=lj9tvhtd&dl=0", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/rai.json" 
-            }, { "name": "TV CHILE", 
-            "ico": "https://panelssh.com.ar/Img/tvchile2.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd", 
+            "drm_license_url": "https://dl.dropbox.com/scl/fi/5zqf4jt0hz6gxhtwjiq05/raitalia.json?rlkey=cf77wn00j8ygel8177qrgjcr1&st=xivbtnib&dl=0" 
+            }, 
+            { "name": "TV CHILE", 
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/tvchile.json" 
+            "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c" 
             }, 
             { "name": "TELESUR", 
-            "ico": "https://panelssh.com.ar/Img/TELE_SUR.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_2A/Telesur.mpd", 
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/telesur.json" 
+            "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5235d8ee29f14ce6b26ea5d828aee77a&key=6bf6bd339e3098babc2ab0b984cd2376" 
             }, 
             { "name": "CNN INTERNACIONAL", 
-            "ico": "https://panelssh.com.ar/Img/CNN_INTERNACIONAL.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc_2A/CNN_Internacional.mpd", 
+            "ico": "https://dl.dropbox.com/scl/fi/p3zzik0u0ri7vvzalcuel/CNN1.png?rlkey=t481lqmjo9eu546nbg72lugcu&st=aqikxr4l&dl=0", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/cnninternacional.json" 
+            "drm_license_url": "https://dl.dropbox.com/scl/fi/6ec9xaxkzufs20dfk4zdn/cnninternacional.json?rlkey=rub3zy6wpdflf55ivihymke6l&st=jimpvf41&dl=0" 
             }, 
             { "name": "BBC NEWS", 
-            "ico": "https://panelssh.com.ar/Img/bbcnews.png", 
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd", 
+            "ico": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/36/01/f036014e-9137-0961-b513-11aaf9f77fbc/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/1200x630wa.png", 
+            "uri": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/bbc.json" 
+            "drm_license_url": "https://dl.dropbox.com/scl/fi/2ilqlheiai0p2i3w5xd8i/bbcnewa.json?rlkey=2oowlrpz7lz91jieercj7p1ij&st=8shshr8e&dl=0" 
             }, 
             { "name": "EURO NEWS", 
-            "ico": "https://panelssh.com.ar/Img/EURO_NEWS.png", 
+            "ico": "https://dl.dropbox.com/scl/fi/mc87o1p4aw9juq7kq3lc0/euronews.png?rlkey=i9ryd1o9qvdhks8rgh95unpdk&st=nrlcrf6j&dl=0", 
             "uri": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd", 
             "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/euronews.json" 
+            "drm_license_url": "https://dl.dropbox.com/scl/fi/oo4al8rnc6cf0s0ep0kf8/euronews.json?rlkey=bqexo86a0ruclwgtlhxhtuwkw&st=sedp6025&dl=0" 
             }, 
             { "name": "DW", 
             "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DW/EXPORTACION_WEB/SS/DW_t-290x163.png", 
-            "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd", 
-            "drm_scheme": "ClearKey", 
-            "drm_license_url": "https://panelssh.com.ar/Keys/dw.json" 
+            "uri": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8", 
+            "drm_scheme": "", 
+            "drm_license_url": "" 
             }, 
             { "name": "ANTENA 3", 
             "ico": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ANTENA3/EXPORTACION_WEB/SS/ANTENA3_t-290x163.png", 

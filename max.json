@@ -7,51 +7,51 @@
     {
   "name": "TELEFUTURO",
    "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png",
-  "uri": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-    "drm_scheme": "clearkey",
-  "drm_license_url": "https://dl.dropbox.com/scl/fi/xdmpe6xxcrcjq8k9h5dvl/telefuturo.json?rlkey=dykbivzs99u16qgi1dx9d7ngj&st=u24dmfgf&dl=0"
-},
+  "uri": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "drm_scheme": "",
+  "drm_license_url": ""
+    },
 {
   "name": "LA TELE",
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/LATELE/EXPORTACION_WEB/SS/LATELE_t-290x163.png",
-  "uri": "https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
-    "drm_scheme": "clearkey",
-  "drm_license_url": "https://dl.dropbox.com/scl/fi/q118jxq0g390dywmibhy7/latele.json?rlkey=i6t9puhq8eu7klzp8ahtmxbw2&st=w16dkt2r&dl=0"
-},
+  "uri": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+    "drm_scheme": "",
+  "drm_license_url": ""
+   },
 {
   "name": "SNT",
    "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/SNT/EXPORTACION_WEB/SS/SNT_t-290x163.png",
-  "uri": "https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-    "drm_scheme": "clearkey",
-  "drm_license_url": "https://dl.dropbox.com/scl/fi/7fei1s9k77s34989rw8cl/snt.json?rlkey=2u0haw0ve8u0ib6ab1kk9rwkc&st=6gy8f1lq&dl=0"
+  "uri": "https://dp7xchau0hnq3.cloudfront.net/index.m3u8",
+    "drm_scheme": "",
+  "drm_license_url": ""
 },
 {
   "name": "C9N",
    "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/C9N/EXPORTACION_WEB/SS/C9N_t-290x163.png",
-  "uri": "https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
-    "drm_scheme": "clearkey",
-  "drm_license_url": "https://dl.dropbox.com/scl/fi/aqyzmfhnl8ioxx5s1kbky/c9n.json?rlkey=la8ytglc74h7kp16e3x89r0bj&st=mcrjxeq0&dl=0"
+  "uri": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+    "drm_scheme": "",
+  "drm_license_url": ""
 },
 {
   "name": "GEN TV",
    "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GENHD/EXPORTACION_WEB/SS/GENHD_t-290x163.png",
-  "uri": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-    "drm_scheme": "clearkey",
-  "drm_license_url": "https://dl.dropbox.com/scl/fi/hp2jz6lqe38dntsanro65/gentv.json?rlkey=omxjssdg3qd49jp3d89bkudh5&st=rn0i00qd&dl=0"
+  "uri": "https://tigocloud.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8",
+    "drm_scheme": "",
+  "drm_license_url": ""
 },
 {
   "name": "TRECE PY",
   "ico": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TRECEPY/EXPORTACION_WEB/SS/TRECEPY_t-290x163.png",
-  "uri": "https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-  "drm_scheme": "clearkey",
-  "drm_license_url": "https://dl.dropbox.com/scl/fi/884lpqsqxz515qjc5tvm2/eltrece.json?rlkey=0b7xusc9cfkzmx9wqghb307re&st=p9o8nbcy&dl=0"
+  "uri": "https://tigocloud.desdeparaguay.net/trecetv/trecetv_alta/index.m3u8",
+    "drm_scheme": "",
+  "drm_license_url": ""
 },
 {
   "name": "UNICANAL",
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png",
-  "uri": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-    "drm_scheme": "clearkey",
-  "drm_license_url": "https://dl.dropbox.com/scl/fi/186bicvyxz5ono71aysmt/unicanal.json?rlkey=lcryasno78xitio0635bnkzpg&st=8y19y2ah&dl=0"
+  "uri": "https://tigocloud.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8",
+    "drm_scheme": "",
+  "drm_license_url": ""
 },
 {
   "name": "CENTRAL TV",
@@ -70,7 +70,7 @@
 {
   "name": "MISION TV",
   "ico": "https://i.ibb.co/ThZhchx/Sin-t-tulo.jpg",
-  "uri": "https://ssh101-fl.bozztv.com/ssh101/misiontvhd/index.m3u8",
+  "uri": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/nnvisiontv/playlist.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""
 },
@@ -85,9 +85,9 @@
 {
   "name": "NPY PY",
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NPY/EXPORTACION_WEB/SS/NPY_t-290x163.png",
-  "uri": "https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
-  "drm_scheme": "clearkey",
-  "drm_license_url": "https://dl.dropbox.com/scl/fi/w4k47k5h3yu6vm3f86dxj/npy.json?rlkey=ex7ezl1tark4q75ng17jr2hhy&st=bey7sws5&dl=0"
+  "uri": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+  "drm_scheme": "",
+  "drm_license_url": ""
 },
 {
   "name": "PARAVISION",
@@ -155,21 +155,21 @@
 {
   "name": "BRUNO MASI TV",
     "ico": "https://lh3.googleusercontent.com/proxy/6jvHeV9xmozBq2l-Abpl7aFx99X7TUpcXGNa7ZUHvI7u1XU_CvutfoO091vznQoXhV8LlaB2Cj6AKWZghIlBDbA",
-  "uri": "https://tigocloud.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+  "uri": "https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""
 },
 {
   "name": "UNION TV",
     "ico": "https://pbs.twimg.com/ext_tw_video_thumb/1602782709063061513/pu/img/sO8ysL8MZqsMcRaj.jpg",
-  "uri": "https://copacogen.desdeparaguay.net/800tv/800tv/chunklist.m3u8",
+  "uri": "https://rds3gen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""
 },
 {
   "name": "EDUCANAL",
     "ico": "https://i.ibb.co/CQZmd8m/EDUCANAL.jpg",
-  "uri": "https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist.m3u8",
+  "uri": "https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""
 },
@@ -225,7 +225,7 @@
 {
   "name": "VENUS TV",
     "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/VENUSMEDIA/EXPORTACION_WEB/SS/VENUSMEDIA_t-290x163.png",
-  "uri": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
+  "uri": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""
 },
@@ -293,27 +293,27 @@
 "lista": 
 [ { "name": "AMERICA TV", 
 "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/AMERICATV/EXPORTACION_WEB/SS/AMERICATV_t-290x163.png", 
-"uri": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd", 
+"uri": "http://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://dl.dropbox.com/scl/fi/zgiio0vxur0c6ube5bl8r/america.json?rlkey=ip1o2m7ia30a2hwh4yqdyp4zr&st=yd2w4q7u&dl=0" 
+"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f" 
 }, 
 { "name": "CANAL 9", 
 "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png", 
-"uri": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd", 
+"uri": "http://smt-usr-edge01.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://dl.dropbox.com/scl/fi/y45it0kdjdtxsebi82n1b/canal9.json?rlkey=b1gpz08ihjqb1y0eziiwkmzq4&st=sxs1wv2d&dl=0" 
+"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7c1f50e3f51216bdd1efcc99d3a27217&key=3441c930277d824402aafee446ba8f90" 
 }, 
 { "name": "TELEFE", 
 "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TELEFE/EXPORTACION_WEB/SS/TELEFE_t-290x163.png", 
-"uri": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd", 
+"uri": "http://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://dl.dropbox.com/scl/fi/rfsgzrktyji7pcbnc43w5/telefe.json?rlkey=oomn96vjv4dnroqjvgtl59xu0&st=grnsvwjs&dl=0" 
+"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9bb54fccffaddd38916e85c08de98cc9&key=d06f509c418eb6f1b2fc2b766445328b" 
 },
 { "name": "EL TRECE", 
-"ico": "https://panelssh.com.ar/Img/eltrece.png", 
-"uri": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd", 
+"ico": "https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/800/542/0/0/42552730073067.png", 
+"uri": "http://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd", 
 "drm_scheme": "ClearKey", 
-"drm_license_url": "https://dl.dropbox.com/scl/fi/0jgaz4oc02zuuxyfd8tzp/eltrece.json?rlkey=s2gx13ldcrs52xwyxmogmoteo&st=lj6m5l9r&dl=0" 
+"drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7b05c7a737b7f0a5d571b91deaa2697&key=4079ac205b544b1c294ee1568906ff58" 
 }, 
 { "name": "TN NOTICIAS", 
 "ico": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmkGoteCMPucWHA-7pLLKPLFcjntx49ZKKhNiejIImQ0H6zWzVjcab2GfeamMborD5vUskUYOOdjHsoGAUfaPC6D5cudTLsTc7UytP-hfl7nWwIiFZ1GMAwgIJbg6nfKTJn251lS21edg/s1600/tn+tvlaint.png", 
@@ -323,27 +323,27 @@
 }, 
 { "name": "A24", 
 "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/A24/EXPORTACION_WEB/SS/A24_t-290x163.png", 
-"uri": "https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+"uri": "http://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://dl.dropbox.com/scl/fi/y1bv0hfa4mnj4wd1j9z96/america24.json?rlkey=k0wiaanvm78od2g0yizrwfqnv&st=oi79btyg&dl=0"
+ "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed936cd5cb59eeee83addafb446662a4&key=dd4b7aeb2bc000468883296e7ae4a09b"
  },
  { "name": "C5N",
  "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/C5N/EXPORTACION_WEB/SS/C5N_t-290x163.png",
- "uri": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
+ "uri": "http://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://dl.dropbox.com/scl/fi/lic45w62n1g20j68issog/c5n.json?rlkey=v5hj5z1tqjwdqhsyt2cr4sdkd&st=fv2hqfrk&dl=0"
+ "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd1767fe3554f1285222b5610105c0e9&key=839d5b1eec7eb70d68c1e1531fc0d6d4"
  },
  { "name": "CANAL 26",
  "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CANAL26/EXPORTACION_WEB/SS/CANAL26_t-290x163.png",
- "uri": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+ "uri": "http://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://dl.dropbox.com/scl/fi/r53akq11vsunrllpgx5h3/canal26.json?rlkey=mkucxh35efnsedbn7142jzqj7&st=mygftxnh&dl=0"
+ "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b35aecc554b859a97cf11b892731af1f&key=3a5da1a7c6a5cc6e488bdbbbf09132ff"
  },
  { "name": "CRONICA TV",
  "ico": "https://i.pinimg.com/736x/43/e7/ae/43e7ae0dbbe5cf9e7035156b67a213ed.jpg",
- "uri": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+ "uri": "http://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd",
  "drm_scheme": "ClearKey",
- "drm_license_url": "https://dl.dropbox.com/scl/fi/etuk81d1siprtujvryork/cronica.json?rlkey=eq8e12pfu7sez6nkf2qtyiwtf&st=u3ojocsj&dl=0"
+ "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194f0682180e147f7928078dcc78a019&key=ddfc08545e74a6bd8870f1189cd1bec0"
  },
  { "name": "LN+",
  "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBSswi4MfUrYgykMNi0mPJuEts3NbhOIuYSA&s",

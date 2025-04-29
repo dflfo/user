@@ -293,7 +293,7 @@
 "lista": 
 [ { "name": "AMERICA TV", 
 "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/AMERICATV/EXPORTACION_WEB/SS/AMERICATV_t-290x163.png", 
-"uri": "http://cdn.sensa.com.ar/live/eds/America/live_dash_cld/default/index.mpd", 
+"uri": "http://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd", 
 "drm_scheme": "ClearKey", 
 "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b5651806b42f087c58332b052de727c5&key=11901b35cc3e5aa73619f64d02c38a0f" 
 }, 

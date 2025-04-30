@@ -77,7 +77,7 @@
 {
   "name": "ABC TV",
   "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ABCTV/EXPORTACION_WEB/SS/ABCTV_t-290x163.png",
-  "uri": "https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8",
+  "uri": "https://cdn.jwplayer.com/live/broadcast/N4AiIwBJ.mpd",
     "drm_scheme": "",
   "drm_license_url": ""
 

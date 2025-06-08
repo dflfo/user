@@ -7,14 +7,14 @@
     {
   "name": "TELEFUTURO",
    "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png",
-  "uri": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+  "uri": "http://185.194.205.207/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
         "drm_scheme": "",
   "drm_license_url": ""
     },
 {
   "name": "LA TELE",
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/LATELE/EXPORTACION_WEB/SS/LATELE_t-290x163.png",
-  "uri": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+  "uri": "http://185.194.205.207/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
     "drm_scheme": "",
   "drm_license_url": ""
    },
@@ -35,21 +35,21 @@
 {
   "name": "GEN TV",
    "ico": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GENHD/EXPORTACION_WEB/SS/GENHD_t-290x163.png",
-  "uri": "https://tigocloud.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8",
+  "uri": "http://185.194.205.207/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
     "drm_scheme": "",
   "drm_license_url": ""
 },
 {
   "name": "TRECE PY",
   "ico": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TRECEPY/EXPORTACION_WEB/SS/TRECEPY_t-290x163.png",
-  "uri": "https://tigocloud.desdeparaguay.net/trecetv/trecetv_alta/index.m3u8",
+  "uri": "http://185.194.205.207/trecetv/trecetv_alta/index.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""
 },
 {
   "name": "UNICANAL",
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png",
-  "uri": "https://tigocloud.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8",
+  "uri": "http://185.194.205.207/unicanal/unicanal_alta/index.m3u8",
     "drm_scheme": "",
   "drm_license_url": ""
 },
@@ -85,7 +85,7 @@
 {
   "name": "NPY PY",
   "ico": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NPY/EXPORTACION_WEB/SS/NPY_t-290x163.png",
-  "uri": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+  "uri": "http://185.194.205.207/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
   "drm_scheme": "",
   "drm_license_url": ""
 },
